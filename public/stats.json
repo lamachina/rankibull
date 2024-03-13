@@ -1,0 +1,559 @@
+{
+    "background": {
+        "Rose": {
+            "count": 1044.0,
+            "percentage": 10.44
+        },
+        "total": 20000,
+        "Tan": {
+            "count": 782.0,
+            "percentage": 7.82
+        },
+        "Cream": {
+            "count": 988.0,
+            "percentage": 9.88
+        },
+        "Light": {
+            "count": 1001.0,
+            "percentage": 10.01
+        },
+        "Pearl": {
+            "count": 928.0,
+            "percentage": 9.28
+        },
+        "Mint": {
+            "count": 1001.0,
+            "percentage": 10.01
+        },
+        "Purple": {
+            "count": 564.0,
+            "percentage": 5.64
+        },
+        "Orange": {
+            "count": 414.0,
+            "percentage": 4.14
+        },
+        "Teal": {
+            "count": 636.0,
+            "percentage": 6.36
+        },
+        "Night": {
+            "count": 790.0,
+            "percentage": 7.9
+        },
+        "Fade": {
+            "count": 1311.0,
+            "percentage": 13.11
+        },
+        "Mempool": {
+            "count": 49.0,
+            "percentage": 0.49
+        },
+        "Forest": {
+            "count": 389.0,
+            "percentage": 3.89
+        },
+        "Day": {
+            "count": 56.0,
+            "percentage": 0.56
+        },
+        "Moutain": {
+            "count": 46.0,
+            "percentage": 0.46
+        },
+        "Bloody": {
+            "count": 1.0,
+            "percentage": 0.01
+        }
+    },
+    "skin": {
+        "Blue": {
+            "count": 1067.0,
+            "percentage": 10.67
+        },
+        "total": 20000,
+        "Green": {
+            "count": 928.0,
+            "percentage": 9.28
+        },
+        "Red": {
+            "count": 849.0,
+            "percentage": 8.49
+        },
+        "Robotic": {
+            "count": 675.0,
+            "percentage": 6.75
+        },
+        "Neon Blue": {
+            "count": 1031.0,
+            "percentage": 10.31
+        },
+        "Green Slime": {
+            "count": 715.0,
+            "percentage": 7.15
+        },
+        "Pink": {
+            "count": 485.0,
+            "percentage": 4.85
+        },
+        "Black": {
+            "count": 650.0,
+            "percentage": 6.5
+        },
+        "Boom": {
+            "count": 108.0,
+            "percentage": 1.08
+        },
+        "Albino": {
+            "count": 503.0,
+            "percentage": 5.03
+        },
+        "Brown": {
+            "count": 1178.0,
+            "percentage": 11.78
+        },
+        "Pink Slime": {
+            "count": 428.0,
+            "percentage": 4.28
+        },
+        "Black Robot": {
+            "count": 245.0,
+            "percentage": 2.45
+        },
+        "Orange": {
+            "count": 429.0,
+            "percentage": 4.29
+        },
+        "Moo": {
+            "count": 316.0,
+            "percentage": 3.16
+        },
+        "Blue Slime": {
+            "count": 158.0,
+            "percentage": 1.58
+        },
+        "Skeleton": {
+            "count": 106.0,
+            "percentage": 1.06
+        },
+        "Golden": {
+            "count": 95.0,
+            "percentage": 0.95
+        },
+        "Rainbow": {
+            "count": 18.0,
+            "percentage": 0.18
+        },
+        "Wrapped Robot": {
+            "count": 14.0,
+            "percentage": 0.14
+        },
+        "Bloody Machine": {
+            "count": 2.0,
+            "percentage": 0.02
+        }
+    },
+    "clothing": {
+        "Science Shrooms": {
+            "count": 320.0,
+            "percentage": 3.2
+        },
+        "total": 20000,
+        "Slimed": {
+            "count": 323.0,
+            "percentage": 3.23
+        },
+        "Atomicals Shirt Green ": {
+            "count": 197.0,
+            "percentage": 1.97
+        },
+        "None": {
+            "count": 3238.0,
+            "percentage": 32.38
+        },
+        "Scientist": {
+            "count": 602.0,
+            "percentage": 6.02
+        },
+        "Double Electric": {
+            "count": 282.0,
+            "percentage": 2.82
+        },
+        "Potion Robes": {
+            "count": 305.0,
+            "percentage": 3.05
+        },
+        "Charged Slime": {
+            "count": 268.0,
+            "percentage": 2.68
+        },
+        "Atomicals Researcher": {
+            "count": 389.0,
+            "percentage": 3.89
+        },
+        "Realms Shirt": {
+            "count": 294.0,
+            "percentage": 2.94
+        },
+        "Fragmented": {
+            "count": 270.0,
+            "percentage": 2.7
+        },
+        "Poison Robes": {
+            "count": 204.0,
+            "percentage": 2.04
+        },
+        "Atom Sweater": {
+            "count": 294.0,
+            "percentage": 2.94
+        },
+        "Scientist 2 ": {
+            "count": 103.0,
+            "percentage": 1.03
+        },
+        "Pure Light": {
+            "count": 213.0,
+            "percentage": 2.13
+        },
+        "Dark Robes": {
+            "count": 281.0,
+            "percentage": 2.81
+        },
+        "Science Shrooms 2 ": {
+            "count": 311.0,
+            "percentage": 3.11
+        },
+        "Realms Shirt 2 ": {
+            "count": 192.0,
+            "percentage": 1.92
+        },
+        "Atomicals Shirt Red ": {
+            "count": 208.0,
+            "percentage": 2.08
+        },
+        "Messy Scientist": {
+            "count": 318.0,
+            "percentage": 3.18
+        },
+        "XCSS Shirt": {
+            "count": 209.0,
+            "percentage": 2.09
+        },
+        "Light Robes": {
+            "count": 363.0,
+            "percentage": 3.63
+        },
+        "XCSS Shirt 2 ": {
+            "count": 89.0,
+            "percentage": 0.89
+        },
+        "Slimed 2 ": {
+            "count": 163.0,
+            "percentage": 1.63
+        },
+        "Atomicals Shirt Black ": {
+            "count": 166.0,
+            "percentage": 1.66
+        },
+        "XCSS Shirt 3 ": {
+            "count": 205.0,
+            "percentage": 2.05
+        },
+        "Atomicals Shirt": {
+            "count": 183.0,
+            "percentage": 1.83
+        },
+        "Mutated": {
+            "count": 10.0,
+            "percentage": 0.1
+        }
+    },
+    "ears": {
+        "None": {
+            "count": 8559.0,
+            "percentage": 85.59
+        },
+        "total": 20000,
+        "Slimey": {
+            "count": 501.0,
+            "percentage": 5.01
+        },
+        "Realms Earring": {
+            "count": 371.0,
+            "percentage": 3.71
+        },
+        "Atom Earring": {
+            "count": 247.0,
+            "percentage": 2.47
+        },
+        "Orb": {
+            "count": 312.0,
+            "percentage": 3.12
+        },
+        "Milk": {
+            "count": 10.0,
+            "percentage": 0.1
+        }
+    },
+    "eyes": {
+        "Blue Cyber Specs": {
+            "count": 426.0,
+            "percentage": 4.26
+        },
+        "total": 20000,
+        "Cosmic": {
+            "count": 197.0,
+            "percentage": 1.97
+        },
+        "Tiny White Specs": {
+            "count": 281.0,
+            "percentage": 2.81
+        },
+        "None": {
+            "count": 4004.0,
+            "percentage": 40.04
+        },
+        "Pink Holo": {
+            "count": 611.0,
+            "percentage": 6.11
+        },
+        "Cracked Glasses": {
+            "count": 513.0,
+            "percentage": 5.13
+        },
+        "Laser Shot": {
+            "count": 124.0,
+            "percentage": 1.24
+        },
+        "Blue Holo": {
+            "count": 702.0,
+            "percentage": 7.02
+        },
+        "Gold Holo": {
+            "count": 67.0,
+            "percentage": 0.67
+        },
+        "Science Specs": {
+            "count": 688.0,
+            "percentage": 6.88
+        },
+        "Green Specs": {
+            "count": 307.0,
+            "percentage": 3.07
+        },
+        "Crazy Eyes": {
+            "count": 213.0,
+            "percentage": 2.13
+        },
+        "Dark Specs": {
+            "count": 432.0,
+            "percentage": 4.32
+        },
+        "Hyper Scope": {
+            "count": 229.0,
+            "percentage": 2.29
+        },
+        "Green Glow": {
+            "count": 242.0,
+            "percentage": 2.42
+        },
+        "Cyborg": {
+            "count": 349.0,
+            "percentage": 3.49
+        },
+        "Blue Glow": {
+            "count": 379.0,
+            "percentage": 3.79
+        },
+        "Flame Shot": {
+            "count": 32.0,
+            "percentage": 0.32
+        },
+        "Plasma Laser": {
+            "count": 204.0,
+            "percentage": 2.04
+        }
+    },
+    "head": {
+        "Cyber Mohawk": {
+            "count": 421.0,
+            "percentage": 4.21
+        },
+        "total": 20000,
+        "Dark Horns": {
+            "count": 248.0,
+            "percentage": 2.48
+        },
+        "Giant Atom": {
+            "count": 423.0,
+            "percentage": 4.23
+        },
+        "Slime Containers": {
+            "count": 227.0,
+            "percentage": 2.27
+        },
+        "None": {
+            "count": 2981.0,
+            "percentage": 29.81
+        },
+        "Realms Logo": {
+            "count": 149.0,
+            "percentage": 1.49
+        },
+        "Generator": {
+            "count": 193.0,
+            "percentage": 1.93
+        },
+        "Atom Slime": {
+            "count": 194.0,
+            "percentage": 1.94
+        },
+        "Electro Horns": {
+            "count": 205.0,
+            "percentage": 2.05
+        },
+        "Virus": {
+            "count": 328.0,
+            "percentage": 3.28
+        },
+        "Eyeball Jar": {
+            "count": 290.0,
+            "percentage": 2.9
+        },
+        "Metal Spikes": {
+            "count": 259.0,
+            "percentage": 2.59
+        },
+        "Green Potion": {
+            "count": 89.0,
+            "percentage": 0.89
+        },
+        "Rainbow Prism": {
+            "count": 143.0,
+            "percentage": 1.43
+        },
+        "Mutant Brain": {
+            "count": 188.0,
+            "percentage": 1.88
+        },
+        "Devil Horns": {
+            "count": 195.0,
+            "percentage": 1.95
+        },
+        "Atomicals Logo": {
+            "count": 328.0,
+            "percentage": 3.28
+        },
+        "Tentacle": {
+            "count": 211.0,
+            "percentage": 2.11
+        },
+        "Crystals": {
+            "count": 138.0,
+            "percentage": 1.38
+        },
+        "Atomblast": {
+            "count": 265.0,
+            "percentage": 2.65
+        },
+        "Slime BB": {
+            "count": 115.0,
+            "percentage": 1.15
+        },
+        "Dark Realms Book": {
+            "count": 159.0,
+            "percentage": 1.59
+        },
+        "Lightning": {
+            "count": 323.0,
+            "percentage": 3.23
+        },
+        "Realms Book": {
+            "count": 114.0,
+            "percentage": 1.14
+        },
+        "Cyber Alert": {
+            "count": 183.0,
+            "percentage": 1.83
+        },
+        "Realms Logo Blue ": {
+            "count": 195.0,
+            "percentage": 1.95
+        },
+        "Blue Potion": {
+            "count": 214.0,
+            "percentage": 2.14
+        },
+        "Lightbulb": {
+            "count": 292.0,
+            "percentage": 2.92
+        },
+        "Golden Atomicals": {
+            "count": 213.0,
+            "percentage": 2.13
+        },
+        "SharkTentacle": {
+            "count": 204.0,
+            "percentage": 2.04
+        },
+        "AVM Book": {
+            "count": 226.0,
+            "percentage": 2.26
+        },
+        "Potion Purple": {
+            "count": 85.0,
+            "percentage": 0.85
+        },
+        "Cyber Brain": {
+            "count": 196.0,
+            "percentage": 1.96
+        },
+        "Diamond": {
+            "count": 6.0,
+            "percentage": 0.06
+        }
+    },
+    "mouth": {
+        "None": {
+            "count": 8325.0,
+            "percentage": 83.25
+        },
+        "total": 20000,
+        "Pink Vape": {
+            "count": 251.0,
+            "percentage": 2.51
+        },
+        "DNA Puke": {
+            "count": 86.0,
+            "percentage": 0.86
+        },
+        "Rainbow Teeth": {
+            "count": 89.0,
+            "percentage": 0.89
+        },
+        "Science Smoke": {
+            "count": 333.0,
+            "percentage": 3.33
+        },
+        "Slime Puke": {
+            "count": 256.0,
+            "percentage": 2.56
+        },
+        "Rainbow Puff": {
+            "count": 187.0,
+            "percentage": 1.87
+        },
+        "Smirk": {
+            "count": 408.0,
+            "percentage": 4.08
+        },
+        "Goose Mouth": {
+            "count": 53.0,
+            "percentage": 0.53
+        },
+        "Diamond Grill": {
+            "count": 12.0,
+            "percentage": 0.12
+        }
+    }
+}

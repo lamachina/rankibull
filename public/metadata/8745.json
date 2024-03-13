@@ -1,0 +1,36 @@
+{
+    "token_id": 8745,
+    "image": "./output/images/8745.png",
+    "name": "NFT #08745",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Rose"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green Slime"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Atomicals Researcher"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Science Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Lightbulb"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Smirk"
+        }
+    ]
+}

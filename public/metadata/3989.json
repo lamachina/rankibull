@@ -1,0 +1,36 @@
+{
+    "token_id": 3989,
+    "image": "./output/images/3989.png",
+    "name": "NFT #03989",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Mint"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Black Robot"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Charged Slime"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blue Cyber Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Pink Vape"
+        }
+    ]
+}

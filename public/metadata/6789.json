@@ -1,0 +1,36 @@
+{
+    "token_id": 6789,
+    "image": "./output/images/6789.png",
+    "name": "NFT #06789",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Day"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Realms Shirt 2 "
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Green Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Golden Atomicals"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Rainbow Puff"
+        }
+    ]
+}

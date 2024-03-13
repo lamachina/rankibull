@@ -1,0 +1,36 @@
+{
+    "token_id": 9190,
+    "image": "./output/images/9190.png",
+    "name": "NFT #09190",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Green Glow"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

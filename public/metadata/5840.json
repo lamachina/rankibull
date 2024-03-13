@@ -1,0 +1,36 @@
+{
+    "token_id": 5840,
+    "image": "./output/images/5840.png",
+    "name": "NFT #05840",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Science Shrooms 2 "
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Atomblast"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

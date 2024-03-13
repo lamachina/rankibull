@@ -1,0 +1,36 @@
+{
+    "token_id": 7372,
+    "image": "./output/images/7372.png",
+    "name": "NFT #07372",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Rose"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Black"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Science Shrooms"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blue Holo"
+        },
+        {
+            "trait_type": "head",
+            "value": "Generator"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

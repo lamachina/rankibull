@@ -1,0 +1,36 @@
+{
+    "token_id": 8350,
+    "image": "./output/images/8350.png",
+    "name": "NFT #08350",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Fade"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Moo"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Atom Sweater"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Slime Containers"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

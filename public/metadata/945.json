@@ -1,0 +1,36 @@
+{
+    "token_id": 945,
+    "image": "./output/images/945.png",
+    "name": "NFT #00945",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Atom Sweater"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Atomblast"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Smirk"
+        }
+    ]
+}

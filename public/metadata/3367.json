@@ -1,0 +1,36 @@
+{
+    "token_id": 3367,
+    "image": "./output/images/3367.png",
+    "name": "NFT #03367",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Science Shrooms"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Rainbow Prism"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

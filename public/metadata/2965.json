@@ -1,0 +1,36 @@
+{
+    "token_id": 2965,
+    "image": "./output/images/2965.png",
+    "name": "NFT #02965",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Neon Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Orb"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Science Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Giant Atom"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "token_id": 3425,
+    "image": "./output/images/3425.png",
+    "name": "NFT #03425",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Mint"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Fragmented"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Pink Holo"
+        },
+        {
+            "trait_type": "head",
+            "value": "Cyber Mohawk"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

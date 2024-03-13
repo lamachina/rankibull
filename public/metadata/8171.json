@@ -1,0 +1,36 @@
+{
+    "token_id": 8171,
+    "image": "./output/images/8171.png",
+    "name": "NFT #08171",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Pink Slime"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Pure Light"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Metal Spikes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

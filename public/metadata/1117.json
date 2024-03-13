@@ -1,0 +1,36 @@
+{
+    "token_id": 1117,
+    "image": "./output/images/1117.png",
+    "name": "NFT #01117",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Rose"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Albino"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Potion Robes"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Atom Earring"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cracked Glasses"
+        },
+        {
+            "trait_type": "head",
+            "value": "Lightbulb"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

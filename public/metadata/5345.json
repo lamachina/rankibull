@@ -1,0 +1,36 @@
+{
+    "token_id": 5345,
+    "image": "./output/images/5345.png",
+    "name": "NFT #05345",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green Slime"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Dark Robes"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Virus"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

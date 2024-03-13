@@ -1,0 +1,36 @@
+{
+    "token_id": 8787,
+    "image": "./output/images/8787.png",
+    "name": "NFT #08787",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Red"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Poison Robes"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Slime BB"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Pink Vape"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "token_id": 808,
+    "image": "./output/images/808.png",
+    "name": "NFT #00808",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Science Shrooms 2 "
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Science Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "SharkTentacle"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

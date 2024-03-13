@@ -1,0 +1,36 @@
+{
+    "token_id": 6459,
+    "image": "./output/images/6459.png",
+    "name": "NFT #06459",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Moo"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Science Shrooms 2 "
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Tiny White Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "DNA Puke"
+        }
+    ]
+}

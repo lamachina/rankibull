@@ -1,0 +1,36 @@
+{
+    "token_id": 2884,
+    "image": "./output/images/2884.png",
+    "name": "NFT #02884",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Neon Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Science Shrooms"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Dark Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Giant Atom"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

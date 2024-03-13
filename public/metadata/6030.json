@@ -1,0 +1,36 @@
+{
+    "token_id": 6030,
+    "image": "./output/images/6030.png",
+    "name": "NFT #06030",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Rose"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Scientist 2 "
+        },
+        {
+            "trait_type": "ears",
+            "value": "Realms Earring"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Virus"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

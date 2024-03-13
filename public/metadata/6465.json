@@ -1,0 +1,36 @@
+{
+    "token_id": 6465,
+    "image": "./output/images/6465.png",
+    "name": "NFT #06465",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Rose"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Science Shrooms"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Science Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Metal Spikes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Smirk"
+        }
+    ]
+}

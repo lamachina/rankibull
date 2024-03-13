@@ -1,0 +1,36 @@
+{
+    "token_id": 9874,
+    "image": "./output/images/9874.png",
+    "name": "NFT #09874",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Moo"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Atomicals Shirt Red "
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Science Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Atom Slime"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "token_id": 8738,
+    "image": "./output/images/8738.png",
+    "name": "NFT #08738",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Dark Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Slime Containers"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

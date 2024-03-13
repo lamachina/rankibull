@@ -1,0 +1,36 @@
+{
+    "token_id": 7504,
+    "image": "./output/images/7504.png",
+    "name": "NFT #07504",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Light"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green Slime"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Science Shrooms 2 "
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Dark Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Rainbow Teeth"
+        }
+    ]
+}

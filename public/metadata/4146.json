@@ -1,0 +1,36 @@
+{
+    "token_id": 4146,
+    "image": "./output/images/4146.png",
+    "name": "NFT #04146",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Neon Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Double Electric"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Hyper Scope"
+        },
+        {
+            "trait_type": "head",
+            "value": "Realms Logo Blue "
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

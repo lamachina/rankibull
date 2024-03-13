@@ -1,0 +1,36 @@
+{
+    "token_id": 2475,
+    "image": "./output/images/2475.png",
+    "name": "NFT #02475",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Black"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Scientist"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Crazy Eyes"
+        },
+        {
+            "trait_type": "head",
+            "value": "Golden Atomicals"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

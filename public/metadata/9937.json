@@ -1,0 +1,36 @@
+{
+    "token_id": 9937,
+    "image": "./output/images/9937.png",
+    "name": "NFT #09937",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Night"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Neon Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "XCSS Shirt 2 "
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

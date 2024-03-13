@@ -1,0 +1,36 @@
+{
+    "token_id": 4848,
+    "image": "./output/images/4848.png",
+    "name": "NFT #04848",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Atomicals Shirt Red "
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Pink Holo"
+        },
+        {
+            "trait_type": "head",
+            "value": "Dark Horns"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

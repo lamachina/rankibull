@@ -1,0 +1,36 @@
+{
+    "token_id": 1505,
+    "image": "./output/images/1505.png",
+    "name": "NFT #01505",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Fade"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Pink Slime"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Pink Holo"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

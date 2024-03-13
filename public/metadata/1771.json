@@ -1,0 +1,36 @@
+{
+    "token_id": 1771,
+    "image": "./output/images/1771.png",
+    "name": "NFT #01771",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Atomicals Shirt Black "
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Tiny White Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Virus"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

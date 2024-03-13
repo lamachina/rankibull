@@ -1,0 +1,36 @@
+{
+    "token_id": 2431,
+    "image": "./output/images/2431.png",
+    "name": "NFT #02431",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Night"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Albino"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Slimed"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cracked Glasses"
+        },
+        {
+            "trait_type": "head",
+            "value": "Cyber Mohawk"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

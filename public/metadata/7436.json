@@ -1,0 +1,36 @@
+{
+    "token_id": 7436,
+    "image": "./output/images/7436.png",
+    "name": "NFT #07436",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Red"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Charged Slime"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Rainbow Prism"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Pink Vape"
+        }
+    ]
+}

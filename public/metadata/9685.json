@@ -1,0 +1,36 @@
+{
+    "token_id": 9685,
+    "image": "./output/images/9685.png",
+    "name": "NFT #09685",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Science Shrooms"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Realms Earring"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

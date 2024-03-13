@@ -1,0 +1,36 @@
+{
+    "token_id": 7716,
+    "image": "./output/images/7716.png",
+    "name": "NFT #07716",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green Slime"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Science Shrooms"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Tiny White Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Atom Slime"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

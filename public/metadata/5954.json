@@ -1,0 +1,36 @@
+{
+    "token_id": 5954,
+    "image": "./output/images/5954.png",
+    "name": "NFT #05954",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Realms Shirt"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Science Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Mutant Brain"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

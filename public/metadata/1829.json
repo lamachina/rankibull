@@ -1,0 +1,36 @@
+{
+    "token_id": 1829,
+    "image": "./output/images/1829.png",
+    "name": "NFT #01829",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green Slime"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Laser Shot"
+        },
+        {
+            "trait_type": "head",
+            "value": "Potion Purple"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

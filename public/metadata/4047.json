@@ -1,0 +1,36 @@
+{
+    "token_id": 4047,
+    "image": "./output/images/4047.png",
+    "name": "NFT #04047",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Scientist 2 "
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Golden Atomicals"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

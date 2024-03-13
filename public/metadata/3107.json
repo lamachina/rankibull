@@ -1,0 +1,36 @@
+{
+    "token_id": 3107,
+    "image": "./output/images/3107.png",
+    "name": "NFT #03107",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Pearl"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Neon Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Messy Scientist"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Realms Earring"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Hyper Scope"
+        },
+        {
+            "trait_type": "head",
+            "value": "Giant Atom"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Smirk"
+        }
+    ]
+}

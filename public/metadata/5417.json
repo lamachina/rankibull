@@ -1,0 +1,36 @@
+{
+    "token_id": 5417,
+    "image": "./output/images/5417.png",
+    "name": "NFT #05417",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Pearl"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Neon Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Potion Robes"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Laser Shot"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

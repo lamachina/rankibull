@@ -1,0 +1,36 @@
+{
+    "token_id": 1925,
+    "image": "./output/images/1925.png",
+    "name": "NFT #01925",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Light"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Science Shrooms"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cracked Glasses"
+        },
+        {
+            "trait_type": "head",
+            "value": "Atomblast"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

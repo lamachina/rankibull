@@ -1,0 +1,36 @@
+{
+    "token_id": 5856,
+    "image": "./output/images/5856.png",
+    "name": "NFT #05856",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Pearl"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Neon Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Charged Slime"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cosmic"
+        },
+        {
+            "trait_type": "head",
+            "value": "Slime BB"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "token_id": 8215,
+    "image": "./output/images/8215.png",
+    "name": "NFT #08215",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Messy Scientist"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "head",
+            "value": "Crystals"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

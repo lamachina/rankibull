@@ -1,0 +1,36 @@
+{
+    "token_id": 3505,
+    "image": "./output/images/3505.png",
+    "name": "NFT #03505",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Science Shrooms"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Dark Horns"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Rainbow Teeth"
+        }
+    ]
+}

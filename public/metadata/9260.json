@@ -1,0 +1,36 @@
+{
+    "token_id": 9260,
+    "image": "./output/images/9260.png",
+    "name": "NFT #09260",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Moo"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Potion Robes"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Science Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Blue Potion"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

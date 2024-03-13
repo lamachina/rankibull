@@ -1,0 +1,36 @@
+{
+    "token_id": 2666,
+    "image": "./output/images/2666.png",
+    "name": "NFT #02666",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Potion Robes"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Crazy Eyes"
+        },
+        {
+            "trait_type": "head",
+            "value": "Tentacle"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Smirk"
+        }
+    ]
+}

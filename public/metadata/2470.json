@@ -1,0 +1,36 @@
+{
+    "token_id": 2470,
+    "image": "./output/images/2470.png",
+    "name": "NFT #02470",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Pearl"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "XCSS Shirt"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Dark Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Cyber Mohawk"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

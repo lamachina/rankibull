@@ -1,0 +1,36 @@
+{
+    "token_id": 8875,
+    "image": "./output/images/8875.png",
+    "name": "NFT #08875",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Fade"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Moo"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Charged Slime"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blue Holo"
+        },
+        {
+            "trait_type": "head",
+            "value": "Crystals"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

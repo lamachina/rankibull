@@ -1,0 +1,36 @@
+{
+    "token_id": 904,
+    "image": "./output/images/904.png",
+    "name": "NFT #00904",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "XCSS Shirt"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Realms Earring"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Tiny White Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Devil Horns"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

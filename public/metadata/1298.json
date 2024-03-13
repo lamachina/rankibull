@@ -1,0 +1,36 @@
+{
+    "token_id": 1298,
+    "image": "./output/images/1298.png",
+    "name": "NFT #01298",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Rose"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Skeleton"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Atomicals Researcher"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Cyber Mohawk"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

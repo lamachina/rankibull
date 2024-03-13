@@ -1,0 +1,36 @@
+{
+    "token_id": 6253,
+    "image": "./output/images/6253.png",
+    "name": "NFT #06253",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Crazy Eyes"
+        },
+        {
+            "trait_type": "head",
+            "value": "AVM Book"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

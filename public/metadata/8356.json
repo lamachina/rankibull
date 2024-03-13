@@ -1,0 +1,36 @@
+{
+    "token_id": 8356,
+    "image": "./output/images/8356.png",
+    "name": "NFT #08356",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Light Robes"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Atom Earring"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blue Glow"
+        },
+        {
+            "trait_type": "head",
+            "value": "Green Potion"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

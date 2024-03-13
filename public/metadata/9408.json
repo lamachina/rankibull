@@ -1,0 +1,36 @@
+{
+    "token_id": 9408,
+    "image": "./output/images/9408.png",
+    "name": "NFT #09408",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blue Holo"
+        },
+        {
+            "trait_type": "head",
+            "value": "Electro Horns"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

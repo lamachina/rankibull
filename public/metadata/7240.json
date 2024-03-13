@@ -1,0 +1,36 @@
+{
+    "token_id": 7240,
+    "image": "./output/images/7240.png",
+    "name": "NFT #07240",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Pink Slime"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Light Robes"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Pink Holo"
+        },
+        {
+            "trait_type": "head",
+            "value": "Atom Slime"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

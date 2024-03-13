@@ -1,0 +1,36 @@
+{
+    "token_id": 2754,
+    "image": "./output/images/2754.png",
+    "name": "NFT #02754",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Night"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Black"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Realms Shirt 2 "
+        },
+        {
+            "trait_type": "ears",
+            "value": "Atom Earring"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blue Cyber Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Virus"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

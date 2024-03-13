@@ -1,0 +1,36 @@
+{
+    "token_id": 8674,
+    "image": "./output/images/8674.png",
+    "name": "NFT #08674",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Atomicals Researcher"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Pink Holo"
+        },
+        {
+            "trait_type": "head",
+            "value": "Metal Spikes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

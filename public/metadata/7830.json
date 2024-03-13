@@ -1,0 +1,36 @@
+{
+    "token_id": 7830,
+    "image": "./output/images/7830.png",
+    "name": "NFT #07830",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Pearl"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Black"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Dark Horns"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

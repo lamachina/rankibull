@@ -1,0 +1,36 @@
+{
+    "token_id": 389,
+    "image": "./output/images/389.png",
+    "name": "NFT #00389",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Light Robes"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Plasma Laser"
+        },
+        {
+            "trait_type": "head",
+            "value": "Realms Logo"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Rainbow Puff"
+        }
+    ]
+}

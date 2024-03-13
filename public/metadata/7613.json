@@ -1,0 +1,36 @@
+{
+    "token_id": 7613,
+    "image": "./output/images/7613.png",
+    "name": "NFT #07613",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Fade"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Light Robes"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Golden Atomicals"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

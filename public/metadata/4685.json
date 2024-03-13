@@ -1,0 +1,36 @@
+{
+    "token_id": 4685,
+    "image": "./output/images/4685.png",
+    "name": "NFT #04685",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Fade"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Light Robes"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "SharkTentacle"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Science Smoke"
+        }
+    ]
+}

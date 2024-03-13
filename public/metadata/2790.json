@@ -1,0 +1,36 @@
+{
+    "token_id": 2790,
+    "image": "./output/images/2790.png",
+    "name": "NFT #02790",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Light"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Charged Slime"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cracked Glasses"
+        },
+        {
+            "trait_type": "head",
+            "value": "Atomblast"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

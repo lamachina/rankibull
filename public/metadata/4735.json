@@ -1,0 +1,36 @@
+{
+    "token_id": 4735,
+    "image": "./output/images/4735.png",
+    "name": "NFT #04735",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Pearl"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Pure Light"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blue Glow"
+        },
+        {
+            "trait_type": "head",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

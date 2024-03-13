@@ -1,0 +1,36 @@
+{
+    "token_id": 8645,
+    "image": "./output/images/8645.png",
+    "name": "NFT #08645",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cracked Glasses"
+        },
+        {
+            "trait_type": "head",
+            "value": "Giant Atom"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

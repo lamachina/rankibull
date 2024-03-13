@@ -1,0 +1,36 @@
+{
+    "token_id": 8763,
+    "image": "./output/images/8763.png",
+    "name": "NFT #08763",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Pearl"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Poison Robes"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cosmic"
+        },
+        {
+            "trait_type": "head",
+            "value": "Giant Atom"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Science Smoke"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "token_id": 2565,
+    "image": "./output/images/2565.png",
+    "name": "NFT #02565",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Albino"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Science Shrooms"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Atom Earring"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blue Cyber Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

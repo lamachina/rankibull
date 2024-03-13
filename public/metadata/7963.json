@@ -1,0 +1,36 @@
+{
+    "token_id": 7963,
+    "image": "./output/images/7963.png",
+    "name": "NFT #07963",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Slimed"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Dark Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

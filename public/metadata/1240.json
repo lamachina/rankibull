@@ -1,0 +1,36 @@
+{
+    "token_id": 1240,
+    "image": "./output/images/1240.png",
+    "name": "NFT #01240",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Boom"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Mutant Brain"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

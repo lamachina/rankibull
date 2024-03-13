@@ -1,0 +1,36 @@
+{
+    "token_id": 3964,
+    "image": "./output/images/3964.png",
+    "name": "NFT #03964",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "XCSS Shirt"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blue Cyber Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Metal Spikes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Science Smoke"
+        }
+    ]
+}

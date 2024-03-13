@@ -1,0 +1,36 @@
+{
+    "token_id": 8167,
+    "image": "./output/images/8167.png",
+    "name": "NFT #08167",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Mint"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Albino"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Science Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Science Smoke"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "token_id": 9314,
+    "image": "./output/images/9314.png",
+    "name": "NFT #09314",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Fade"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Charged Slime"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Pink Holo"
+        },
+        {
+            "trait_type": "head",
+            "value": "Golden Atomicals"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Science Smoke"
+        }
+    ]
+}

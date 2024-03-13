@@ -1,0 +1,36 @@
+{
+    "token_id": 8801,
+    "image": "./output/images/8801.png",
+    "name": "NFT #08801",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Boom"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Atomicals Researcher"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Science Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Atomblast"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

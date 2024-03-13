@@ -1,0 +1,36 @@
+{
+    "token_id": 7198,
+    "image": "./output/images/7198.png",
+    "name": "NFT #07198",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Fade"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Science Shrooms 2 "
+        },
+        {
+            "trait_type": "ears",
+            "value": "Realms Earring"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Science Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Slime Containers"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

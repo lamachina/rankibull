@@ -1,0 +1,36 @@
+{
+    "token_id": 1150,
+    "image": "./output/images/1150.png",
+    "name": "NFT #01150",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Neon Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Slimed"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Atom Earring"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Dark Realms Book"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

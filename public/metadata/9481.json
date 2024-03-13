@@ -1,0 +1,36 @@
+{
+    "token_id": 9481,
+    "image": "./output/images/9481.png",
+    "name": "NFT #09481",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Fade"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Red"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Mutated"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Realms Earring"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Dark Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Mutant Brain"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

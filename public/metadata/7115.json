@@ -1,0 +1,36 @@
+{
+    "token_id": 7115,
+    "image": "./output/images/7115.png",
+    "name": "NFT #07115",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Rose"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Neon Blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Double Electric"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Orb"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Laser Shot"
+        },
+        {
+            "trait_type": "head",
+            "value": "Crystals"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "token_id": 736,
+    "image": "./output/images/736.png",
+    "name": "NFT #00736",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Rose"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green Slime"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Poison Robes"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Hyper Scope"
+        },
+        {
+            "trait_type": "head",
+            "value": "Realms Logo Blue "
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

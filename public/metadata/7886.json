@@ -1,0 +1,36 @@
+{
+    "token_id": 7886,
+    "image": "./output/images/7886.png",
+    "name": "NFT #07886",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Messy Scientist"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Laser Shot"
+        },
+        {
+            "trait_type": "head",
+            "value": "Lightbulb"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

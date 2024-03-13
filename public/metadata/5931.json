@@ -1,0 +1,36 @@
+{
+    "token_id": 5931,
+    "image": "./output/images/5931.png",
+    "name": "NFT #05931",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Black Robot"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Scientist"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Science Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Mutant Brain"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

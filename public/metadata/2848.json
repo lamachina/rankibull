@@ -1,0 +1,36 @@
+{
+    "token_id": 2848,
+    "image": "./output/images/2848.png",
+    "name": "NFT #02848",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Light"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Realms Shirt"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blue Holo"
+        },
+        {
+            "trait_type": "head",
+            "value": "Realms Logo Blue "
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

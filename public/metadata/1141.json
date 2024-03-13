@@ -1,0 +1,36 @@
+{
+    "token_id": 1141,
+    "image": "./output/images/1141.png",
+    "name": "NFT #01141",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Night"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Pink Slime"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Slimed 2 "
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cosmic"
+        },
+        {
+            "trait_type": "head",
+            "value": "None"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Pink Vape"
+        }
+    ]
+}

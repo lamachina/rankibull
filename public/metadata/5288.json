@@ -1,0 +1,36 @@
+{
+    "token_id": 5288,
+    "image": "./output/images/5288.png",
+    "name": "NFT #05288",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Red"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Atom Sweater"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Dark Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Metal Spikes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

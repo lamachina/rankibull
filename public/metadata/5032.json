@@ -1,0 +1,36 @@
+{
+    "token_id": 5032,
+    "image": "./output/images/5032.png",
+    "name": "NFT #05032",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Rose"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Moo"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Tiny White Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "AVM Book"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Rainbow Puff"
+        }
+    ]
+}

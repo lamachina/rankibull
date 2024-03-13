@@ -1,0 +1,36 @@
+{
+    "token_id": 8797,
+    "image": "./output/images/8797.png",
+    "name": "NFT #08797",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Moo"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Pure Light"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "head",
+            "value": "Dark Horns"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

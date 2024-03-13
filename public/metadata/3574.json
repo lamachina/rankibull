@@ -1,0 +1,36 @@
+{
+    "token_id": 3574,
+    "image": "./output/images/3574.png",
+    "name": "NFT #03574",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Pearl"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Black Robot"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Realms Shirt 2 "
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Devil Horns"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

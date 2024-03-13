@@ -1,0 +1,36 @@
+{
+    "token_id": 2487,
+    "image": "./output/images/2487.png",
+    "name": "NFT #02487",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Boom"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "XCSS Shirt 3 "
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blue Cyber Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Atomicals Logo"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

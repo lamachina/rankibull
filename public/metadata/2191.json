@@ -1,0 +1,36 @@
+{
+    "token_id": 2191,
+    "image": "./output/images/2191.png",
+    "name": "NFT #02191",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blue Cyber Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Realms Logo Blue "
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "token_id": 6613,
+    "image": "./output/images/6613.png",
+    "name": "NFT #06613",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Fade"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Fragmented"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Realms Book"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

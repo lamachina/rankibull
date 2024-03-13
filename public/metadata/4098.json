@@ -1,0 +1,36 @@
+{
+    "token_id": 4098,
+    "image": "./output/images/4098.png",
+    "name": "NFT #04098",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Pearl"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Black Robot"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Pink Holo"
+        },
+        {
+            "trait_type": "head",
+            "value": "Blue Potion"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Slime Puke"
+        }
+    ]
+}

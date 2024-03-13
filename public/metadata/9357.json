@@ -1,0 +1,36 @@
+{
+    "token_id": 9357,
+    "image": "./output/images/9357.png",
+    "name": "NFT #09357",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blue Cyber Specs"
+        },
+        {
+            "trait_type": "head",
+            "value": "Generator"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "DNA Puke"
+        }
+    ]
+}

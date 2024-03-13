@@ -1,0 +1,36 @@
+{
+    "token_id": 3266,
+    "image": "./output/images/3266.png",
+    "name": "NFT #03266",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Green"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Atom Sweater"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Crazy Eyes"
+        },
+        {
+            "trait_type": "head",
+            "value": "Realms Logo"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Science Smoke"
+        }
+    ]
+}

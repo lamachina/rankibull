@@ -1,0 +1,36 @@
+{
+    "token_id": 4509,
+    "image": "./output/images/4509.png",
+    "name": "NFT #04509",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Rose"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Atomicals Shirt Black "
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cracked Glasses"
+        },
+        {
+            "trait_type": "head",
+            "value": "Realms Logo Blue "
+        },
+        {
+            "trait_type": "mouth",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "token_id": 9714,
+    "image": "./output/images/9714.png",
+    "name": "NFT #09714",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Mint"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Black Robot"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Atom Slime"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Diamond Grill"
+        }
+    ]
+}
