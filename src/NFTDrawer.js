@@ -53,24 +53,24 @@ const NFTDrawer = ({ isOpen, onClose, metadata, imageUrl }) => {
     return (
         <Drawer isOpen={isOpen} placement="bottom" onClose={onClose}>
             <DrawerOverlay />
-            <DrawerContent display={'flex'} alignItems={'center'} justifyContent={'center'} color={'white'} bg="#000000d6">
-                <DrawerBody display={'flex'} flexDirection={'column'} pb={'1rem'}>
+            <DrawerContent display={'flex'} alignItems={'center'} justifyContent={'center'} color={'white'} bg="#000000d6" >
+                <DrawerBody display={'flex'} flexDirection={'column'} pb={'1rem'} gap={0}>
                     {metadataContent && (
                         <VStack alignItems="flex-start">
                             <Stack display={'flex'} w={'100%'} alignItems={'center'}>
-                                <Heading fontSize='xxx-large'>{metadataContent.token_id}</Heading>
+                                <Heading fontSize='x-large'>{metadataContent.token_id}</Heading>
                                 <Image src={imageUrl} boxSize="256px" objectFit="cover" />
                             </Stack>
                             {metadataContent.attributes.map((attribute, index) => (
                                 <Stack direction={'row'} bg={'black'} w={'100%'} display={'flex'} justifyContent={'space-between'}>
-                                    <Text key={index}>
+                                    <Text fontSize={'small'} key={index}>
                                         {attribute.trait_type}
                                     </Text>
-                                    <Text fontWeight={'bold'}>
+                                    <Text fontSize={'small'} fontWeight={'bold'}>
                                         {attribute.value}
                                     </Text>
                                     {getRarityInfo(attribute.trait_type, attribute.value) && (
-                                        <Text fontWeight={'bold'} ml={4} color={getRarityInfo(attribute.trait_type, attribute.value).color}>
+                                        <Text fontSize={'small'} fontWeight={'bold'} ml={4} color={getRarityInfo(attribute.trait_type, attribute.value).color}>
                                             {getRarityInfo(attribute.trait_type, attribute.value).percentage}%
                                         </Text>
                                     )}
