@@ -1,25 +1,40 @@
 import React, { useEffect, useState } from 'react';
-import { Drawer, DrawerOverlay, DrawerContent, DrawerHeader, DrawerBody, VStack, Text, Divider, Heading, Image, Stack, CloseButton } from '@chakra-ui/react';
+import { Drawer, DrawerOverlay, DrawerContent, DrawerBody, VStack, Text, Divider, Heading, Image, Stack, CloseButton, Center } from '@chakra-ui/react';
 
 const NFTDrawer = ({ isOpen, onClose, metadata, imageUrl }) => {
     const [metadataContent, setMetadataContent] = useState(null);
     const [stats, setStats] = useState(null);
+    const [itemInfo, setItemInfo] = useState(null);
 
     useEffect(() => {
         if (metadata) {
-            // Fetch metadata content
             fetch(metadata)
                 .then(response => response.json())
                 .then(data => setMetadataContent(data))
                 .catch(error => console.error('Error fetching metadata:', error));
         }
 
-        // Fetch stats content
-        fetch('/stats.json') // Adjust the path accordingly if needed
+        fetch('/stats.json')
             .then(response => response.json())
             .then(data => setStats(data))
             .catch(error => console.error('Error fetching stats:', error));
+
+
     }, [metadata]);
+
+    useEffect(() => {
+        if (metadataContent && metadataContent.token_id) {
+            fetch('/final_items.json')
+                .then(response => response.json())
+                .then(data => {
+                    if (data[metadataContent.token_id]) {
+                        setItemInfo(data[metadataContent.token_id]);
+                    }
+                })
+                .catch(error => console.error('Error fetching item info:', error));
+        }
+    }, [metadataContent]);
+
 
     const getRarityInfo = (traitType, value) => {
         if (stats && stats[traitType] && stats[traitType][value]) {
@@ -45,25 +60,32 @@ const NFTDrawer = ({ isOpen, onClose, metadata, imageUrl }) => {
         } else if (count >= 700 && count < 1000) {
             return '#8187dc';
         } else {
-            // Handle other cases as needed
             return '#757bc8'; // Default color
         }
     };
 
     return (
-        <Drawer isOpen={isOpen} placement="bottom" onClose={onClose}>
+        <Drawer isOpen={isOpen} placement="bottom" onClose={onClose} size="full">
             <DrawerOverlay />
-            <DrawerContent display={'flex'} alignItems={'center'} justifyContent={'center'} color={'white'} bg="#000000d6" >
-                <DrawerBody display={'flex'} flexDirection={'column'} pb={'1rem'} gap={0}>
+            <DrawerContent color={'white'} bg="#000000d6" maxH="90vh" overflowY="auto">
+                <DrawerBody display={'flex'} flexDirection={'column'} p={"1rem"} gap={0}>
                     {metadataContent && (
-                        <VStack alignItems="flex-start">
+                        <VStack alignItems="flex-start" w="100%" spacing={4} p={4}>
                             <Stack display={'flex'} w={'100%'} alignItems={'center'}>
                                 <Heading fontSize='x-large'>{metadataContent.token_id}</Heading>
                                 <Image src={imageUrl} boxSize="256px" objectFit="cover" />
+
+                                {itemInfo && (
+                                    <Center direction={'row'} gap={'1rem'}>
+                                        <Heading>#{10000 - itemInfo.global}</Heading>
+                                        {/*  <Text>(#{ itemInfo.catrank} in category)</Text> */}
+                                    </Center>
+
+                                )}
                             </Stack>
                             {metadataContent.attributes.map((attribute, index) => (
-                                <Stack direction={'row'} bg={'black'} w={'100%'} display={'flex'} justifyContent={'space-between'}>
-                                    <Text fontSize={'small'} key={index}>
+                                <Stack direction={'row'} bg={'black'} w={'100%'} display={'flex'} justifyContent={'space-between'} key={index}>
+                                    <Text fontSize={'small'}>
                                         {attribute.trait_type}
                                     </Text>
                                     <Text fontSize={'small'} fontWeight={'bold'}>
@@ -76,11 +98,10 @@ const NFTDrawer = ({ isOpen, onClose, metadata, imageUrl }) => {
                                     )}
                                 </Stack>
                             ))}
+
                         </VStack>
-
                     )}
-                    <CloseButton w={'100%'} onClick={onClose} variant="solid" >Close</CloseButton>
-
+                    <CloseButton onClick={onClose} />
                 </DrawerBody>
             </DrawerContent>
         </Drawer>
