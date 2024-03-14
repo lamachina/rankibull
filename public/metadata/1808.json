@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
@@ -14,7 +14,7 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

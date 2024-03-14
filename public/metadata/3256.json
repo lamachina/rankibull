@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
@@ -14,19 +14,19 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Fragmented"
+            "value": "Messy Scientist"
         },
         {
             "trait_type": "ears",
-            "value": "Orb"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Flame Shot"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
-            "value": "Dark Horns"
+            "value": "Giant Atom"
         },
         {
             "trait_type": "mouth",

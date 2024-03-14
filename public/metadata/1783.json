@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Golden"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Mutated"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Atom Earring"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",

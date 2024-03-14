@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Black"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt 3 "
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "Tentacle"
+            "value": "Atomicals Logo"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Goose Mouth"
         }
     ]
 }

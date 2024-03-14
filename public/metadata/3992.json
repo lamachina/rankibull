@@ -10,27 +10,27 @@
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Light Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "Atom Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Tiny White Specs"
         },
         {
             "trait_type": "head",
-            "value": "Lightbulb"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

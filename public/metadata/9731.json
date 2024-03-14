@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Charged Slime"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Pink"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Pure Light"
+            "value": "Poison Robes"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",

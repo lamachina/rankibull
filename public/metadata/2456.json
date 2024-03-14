@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
@@ -14,7 +14,7 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",

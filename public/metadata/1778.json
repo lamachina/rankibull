@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Black Robot"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Realms Shirt"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Pink Vape"
         }
     ]
 }

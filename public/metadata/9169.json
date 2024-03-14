@@ -6,19 +6,19 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Moutain"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Golden"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed 2 "
+            "value": "Science Shrooms 2 "
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "Orb"
         },
         {
             "trait_type": "eyes",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

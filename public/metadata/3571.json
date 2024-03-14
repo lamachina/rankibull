@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "Tiny White Specs"
         },
         {
             "trait_type": "head",
-            "value": "Metal Spikes"
+            "value": "Blue Potion"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

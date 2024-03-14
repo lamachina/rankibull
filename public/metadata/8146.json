@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
+            "value": "Atomicals Shirt Green "
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "None"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

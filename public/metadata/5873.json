@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Blue Slime"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Fragmented"
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "Realms Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

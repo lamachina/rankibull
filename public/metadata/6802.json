@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Pink"
+            "value": "Black Robot"
         },
         {
             "trait_type": "clothing",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Atomblast"
+            "value": "Dark Realms Book"
         },
         {
             "trait_type": "mouth",

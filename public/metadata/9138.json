@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Day"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Black"
+            "value": "Blue Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt 3 "
+            "value": "Poison Robes"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Lightning"
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "Smirk"
         }
     ]
 }

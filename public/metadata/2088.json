@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
@@ -18,7 +18,7 @@
         },
         {
             "trait_type": "ears",
-            "value": "Realms Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "Pink Vape"
         }
     ]
 }

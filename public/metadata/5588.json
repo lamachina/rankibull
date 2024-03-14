@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Black"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Fragmented"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Green Specs"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",

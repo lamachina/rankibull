@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "Crazy Eyes"
         },
         {
             "trait_type": "head",

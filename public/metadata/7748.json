@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt 3 "
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

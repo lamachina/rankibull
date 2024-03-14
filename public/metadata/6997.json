@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Pink Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Potion Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",

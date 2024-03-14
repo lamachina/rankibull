@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
@@ -18,15 +18,15 @@
         },
         {
             "trait_type": "ears",
-            "value": "Orb"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Green Specs"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "Lightbulb"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

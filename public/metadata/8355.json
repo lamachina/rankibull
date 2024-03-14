@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Atom Sweater"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cyborg"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",

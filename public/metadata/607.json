@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Black Robot"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms"
+            "value": "Realms Shirt 2 "
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cosmic"
+            "value": "None"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "None"
         }
     ]
 }

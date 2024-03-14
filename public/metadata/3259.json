@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt"
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Metal Spikes"
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

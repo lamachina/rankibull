@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Researcher"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Cyborg"
         },
         {
             "trait_type": "head",

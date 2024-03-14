@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
@@ -14,19 +14,19 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Researcher"
-        },
-        {
-            "trait_type": "ears",
-            "value": "Realms Earring"
-        },
-        {
-            "trait_type": "eyes",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cyborg"
+        },
+        {
             "trait_type": "head",
-            "value": "SharkTentacle"
+            "value": "Tentacle"
         },
         {
             "trait_type": "mouth",

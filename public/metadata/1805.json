@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Dark Robes"
+            "value": "Potion Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Cosmic"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Atom Slime"
         },
         {
             "trait_type": "mouth",

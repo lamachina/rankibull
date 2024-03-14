@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Blue Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Researcher"
+            "value": "Messy Scientist"
         },
         {
             "trait_type": "ears",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",

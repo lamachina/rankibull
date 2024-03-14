@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
@@ -14,7 +14,7 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Black "
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "Cosmic"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Blue Potion"
         },
         {
             "trait_type": "mouth",

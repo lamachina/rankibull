@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cyborg"
+            "value": "Blue Cyber Specs"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "SharkTentacle"
         },
         {
             "trait_type": "mouth",

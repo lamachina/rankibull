@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Dark Robes"
+            "value": "Slimed"
         },
         {
             "trait_type": "ears",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Crystals"
+            "value": "SharkTentacle"
         },
         {
             "trait_type": "mouth",

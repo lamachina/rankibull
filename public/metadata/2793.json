@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Potion Robes"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Plasma Laser"
+            "value": "Tiny White Specs"
         },
         {
             "trait_type": "head",

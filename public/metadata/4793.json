@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Black"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms"
+            "value": "Science Shrooms 2 "
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "Electro Horns"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Teeth"
+            "value": "None"
         }
     ]
 }

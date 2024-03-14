@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "Realms Shirt"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Crazy Eyes"
         },
         {
             "trait_type": "head",
-            "value": "Lightning"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

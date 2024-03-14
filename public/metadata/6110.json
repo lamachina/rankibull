@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Dark Robes"
+            "value": "Realms Shirt"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Orb"
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
-        },
-        {
-            "trait_type": "head",
             "value": "None"
         },
         {
+            "trait_type": "head",
+            "value": "Generator"
+        },
+        {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "None"
         }
     ]
 }

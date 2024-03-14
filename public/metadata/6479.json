@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Dark Robes"
+            "value": "Realms Shirt 2 "
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cyborg"
+            "value": "None"
         },
         {
             "trait_type": "head",

@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

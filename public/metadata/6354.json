@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Slimed"
         },
         {
             "trait_type": "ears",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "Realms Logo"
+            "value": "Slime Containers"
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

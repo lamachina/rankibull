@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Poison Robes"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "Tiny White Specs"
         },
         {
             "trait_type": "head",

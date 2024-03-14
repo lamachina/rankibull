@@ -6,27 +6,27 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Black Robot"
+            "value": "Boom"
         },
         {
             "trait_type": "clothing",
-            "value": "Pure Light"
-        },
-        {
-            "trait_type": "ears",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "Orb"
+        },
+        {
             "trait_type": "eyes",
-            "value": "Green Glow"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Rainbow Prism"
+            "value": "Atomicals Logo"
         },
         {
             "trait_type": "mouth",

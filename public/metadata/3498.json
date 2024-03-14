@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
@@ -14,7 +14,7 @@
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "XCSS Shirt 3 "
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "Cracked Glasses"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

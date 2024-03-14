@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Boom"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "Green Glow"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

@@ -10,15 +10,15 @@
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "Realms Shirt"
         },
         {
             "trait_type": "ears",
-            "value": "Atom Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "Giant Atom"
+            "value": "Realms Logo"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Slime Puke"
         }
     ]
 }

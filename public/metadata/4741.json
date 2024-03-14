@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Fragmented"
         },
         {
             "trait_type": "ears",
-            "value": "Realms Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "Plasma Laser"
         },
         {
             "trait_type": "head",
-            "value": "Lightning"
+            "value": "Metal Spikes"
         },
         {
             "trait_type": "mouth",
-            "value": "DNA Puke"
+            "value": "None"
         }
     ]
 }

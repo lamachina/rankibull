@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Tiny White Specs"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "Giant Atom"
+            "value": "Cyber Mohawk"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Rainbow Teeth"
         }
     ]
 }

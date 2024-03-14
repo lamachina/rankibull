@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Pure Light"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Tiny White Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",

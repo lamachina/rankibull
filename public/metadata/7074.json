@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
@@ -18,15 +18,15 @@
         },
         {
             "trait_type": "ears",
-            "value": "Realms Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "Devil Horns"
+            "value": "Giant Atom"
         },
         {
             "trait_type": "mouth",

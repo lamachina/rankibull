@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Realms Shirt"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Atomicals Logo"
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

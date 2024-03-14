@@ -6,27 +6,27 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Black"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
+            "value": "Pure Light"
         },
         {
             "trait_type": "ears",
-            "value": "Realms Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Laser Shot"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "Golden Atomicals"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",

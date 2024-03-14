@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Orange"
         },
         {
             "trait_type": "clothing",
-            "value": "Poison Robes"
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Slime Puke"
+            "value": "None"
         }
     ]
 }

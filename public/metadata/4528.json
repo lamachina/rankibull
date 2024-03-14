@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Fragmented"
+            "value": "Atomicals Shirt Red "
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Realms Earring"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Cyborg"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "None"
         }
     ]
 }

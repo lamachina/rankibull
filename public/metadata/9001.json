@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Researcher"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "Crazy Eyes"
         },
         {
             "trait_type": "head",

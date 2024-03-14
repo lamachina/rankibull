@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Atom Sweater"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
-            "value": "Virus"
+            "value": "Realms Logo Blue "
         },
         {
             "trait_type": "mouth",

@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Pink"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms 2 "
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Realms Earring"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Blue Cyber Specs"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "DNA Puke"
+            "value": "None"
         }
     ]
 }

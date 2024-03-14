@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Pink"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Red "
+            "value": "Messy Scientist"
         },
         {
             "trait_type": "ears",
-            "value": "Atom Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Cosmic"
         },
         {
             "trait_type": "head",
-            "value": "Mutant Brain"
+            "value": "Rainbow Prism"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Slime Puke"
         }
     ]
 }

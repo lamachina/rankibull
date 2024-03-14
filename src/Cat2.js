@@ -49,7 +49,21 @@ const Cat2 = () => {
     return (
         <Flex flexDirection="column" alignItems="center" p={"1rem"} bg={'black'} color={'white'}>
             <Heading p={"1rem"}>Statistiques</Heading>
-
+            <Flex mt={5}>
+                <Button onClick={handlePrevPage} disabled={currentPage === 1}>
+                    Page précédente
+                </Button>
+                <Select ml={2} value={currentPage} onChange={(e) => setCurrentPage(parseInt(e.target.value))}>
+                    {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (
+                        <option key={page} value={page}>
+                            Page {page}
+                        </option>
+                    ))}
+                </Select>
+                <Button ml={2} onClick={handleNextPage} disabled={currentPage === totalPages}>
+                    Page suivante
+                </Button>
+            </Flex>
             <Flex flexWrap="wrap" justifyContent="center" gap={"1rem"}>
                 {itemNumbers.slice(startIndex, endIndex).map((itemNumber, index) => (
                     <NFTCard

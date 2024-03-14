@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Day"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt 2 "
+            "value": "Atom Sweater"
         },
         {
             "trait_type": "ears",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Virus"
+            "value": "Blue Potion"
         },
         {
             "trait_type": "mouth",

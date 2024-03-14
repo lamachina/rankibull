@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
-            "value": "Slime Containers"
+            "value": "Lightbulb"
         },
         {
             "trait_type": "mouth",

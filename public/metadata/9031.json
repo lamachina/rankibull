@@ -10,23 +10,23 @@
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Green "
+            "value": "Atomicals Shirt"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
-        },
-        {
-            "trait_type": "eyes",
             "value": "None"
         },
         {
+            "trait_type": "eyes",
+            "value": "Green Specs"
+        },
+        {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

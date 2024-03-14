@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Cyborg"
         },
         {
             "trait_type": "head",
-            "value": "Electro Horns"
+            "value": "Dark Horns"
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

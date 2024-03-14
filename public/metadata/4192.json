@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt"
+            "value": "Charged Slime"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Orb"
         },
         {
             "trait_type": "eyes",
-            "value": "Green Glow"
+            "value": "None"
         },
         {
             "trait_type": "head",

@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "skin",
-            "value": "Moo"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "Rainbow Puff"
         }
     ]
 }

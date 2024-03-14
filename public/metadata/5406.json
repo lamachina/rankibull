@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",
-            "value": "Atom Slime"
+            "value": "Lightbulb"
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

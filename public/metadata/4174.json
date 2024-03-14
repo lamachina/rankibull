@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Poison Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cosmic"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Realms Book"
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

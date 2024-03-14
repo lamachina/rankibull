@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Black Robot"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt"
+            "value": "Slimed 2 "
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Cosmic"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Slime Puke"
         }
     ]
 }

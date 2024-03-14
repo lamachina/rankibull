@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Skeleton"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Potion Robes"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Giant Atom"
+            "value": "Lightning"
         },
         {
             "trait_type": "mouth",
-            "value": "Slime Puke"
+            "value": "None"
         }
     ]
 }

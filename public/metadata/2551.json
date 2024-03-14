@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Blue Slime"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
@@ -18,11 +18,11 @@
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Plasma Laser"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",

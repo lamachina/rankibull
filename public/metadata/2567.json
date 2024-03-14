@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Blue Slime"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "Realms Shirt 2 "
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Atomblast"
         },
         {
             "trait_type": "mouth",

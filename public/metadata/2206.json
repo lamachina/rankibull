@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Orange"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Poison Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Atom Slime"
+            "value": "Metal Spikes"
         },
         {
             "trait_type": "mouth",

@@ -6,27 +6,27 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Pink"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Researcher"
+            "value": "Charged Slime"
         },
         {
             "trait_type": "ears",
-            "value": "Orb"
-        },
-        {
-            "trait_type": "eyes",
             "value": "None"
         },
         {
+            "trait_type": "eyes",
+            "value": "Cracked Glasses"
+        },
+        {
             "trait_type": "head",
-            "value": "Lightbulb"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

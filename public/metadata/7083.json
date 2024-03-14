@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "Cracked Glasses"
         },
         {
             "trait_type": "head",
-            "value": "Lightbulb"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Rainbow Puff"
         }
     ]
 }

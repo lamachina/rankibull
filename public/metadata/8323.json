@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Skeleton"
+            "value": "Golden"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Potion Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Electro Horns"
+            "value": "AVM Book"
         },
         {
             "trait_type": "mouth",

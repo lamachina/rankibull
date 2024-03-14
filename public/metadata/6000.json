@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
@@ -18,11 +18,11 @@
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Crazy Eyes"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",

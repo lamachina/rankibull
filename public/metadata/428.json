@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Blue Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms"
-        },
-        {
-            "trait_type": "ears",
-            "value": "Realms Earring"
-        },
-        {
-            "trait_type": "eyes",
-            "value": "Green Specs"
-        },
-        {
-            "trait_type": "head",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cracked Glasses"
+        },
+        {
+            "trait_type": "head",
+            "value": "Green Potion"
+        },
+        {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

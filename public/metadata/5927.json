@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Fragmented"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cosmic"
+            "value": "None"
         },
         {
             "trait_type": "head",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms"
+            "value": "Atom Sweater"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",

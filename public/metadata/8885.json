@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Orange"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms 2 "
+            "value": "Mutated"
         },
         {
             "trait_type": "ears",
-            "value": "Atom Earring"
-        },
-        {
-            "trait_type": "eyes",
-            "value": "Green Specs"
-        },
-        {
-            "trait_type": "head",
             "value": "None"
         },
         {
+            "trait_type": "eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "head",
+            "value": "Tentacle"
+        },
+        {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Boom"
         },
         {
             "trait_type": "clothing",
@@ -18,15 +18,15 @@
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Atom Earring"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Alert"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

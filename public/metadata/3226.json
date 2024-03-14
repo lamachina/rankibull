@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt"
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "None"
         },
         {
             "trait_type": "head",

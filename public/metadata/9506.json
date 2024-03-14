@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Scientist 2 "
         },
         {
             "trait_type": "ears",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Virus"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Pink Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Green "
+            "value": "Pure Light"
         },
         {
             "trait_type": "ears",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Slime Puke"
+            "value": "None"
         }
     ]
 }

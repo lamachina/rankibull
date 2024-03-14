@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "Poison Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Metal Spikes"
+            "value": "Lightning"
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "None"
         }
     ]
 }

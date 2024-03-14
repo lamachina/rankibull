@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
@@ -14,7 +14,7 @@
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Poison Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Gold Holo"
+            "value": "Plasma Laser"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "SharkTentacle"
         },
         {
             "trait_type": "mouth",

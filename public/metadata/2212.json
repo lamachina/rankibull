@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Boom"
+            "value": "Black Robot"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Giant Atom"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

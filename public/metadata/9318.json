@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Researcher"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Crazy Eyes"
+            "value": "Green Glow"
         },
         {
             "trait_type": "head",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "Light Robes"
+            "value": "Slimed"
         },
         {
             "trait_type": "ears",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Pink Vape"
         }
     ]
 }

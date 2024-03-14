@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Pink Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Dark Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Crazy Eyes"
         },
         {
             "trait_type": "head",
-            "value": "Realms Logo Blue "
+            "value": "Potion Purple"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

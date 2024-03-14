@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mempool"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Researcher"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Flame Shot"
+            "value": "None"
         },
         {
             "trait_type": "head",

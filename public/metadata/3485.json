@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms"
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
-            "value": "Lightning"
+            "value": "Eyeball Jar"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

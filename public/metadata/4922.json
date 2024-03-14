@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
@@ -18,11 +18,11 @@
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Cyborg"
+            "value": "Plasma Laser"
         },
         {
             "trait_type": "head",

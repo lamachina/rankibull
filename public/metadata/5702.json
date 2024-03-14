@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Blue Slime"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "AVM Book"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",

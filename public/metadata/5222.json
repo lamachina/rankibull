@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Fragmented"
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Blue Cyber Specs"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Giant Atom"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Slime Puke"
         }
     ]
 }

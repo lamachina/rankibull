@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
-            "value": "Realms Earring"
+            "value": "Orb"
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Crystals"
+            "value": "Metal Spikes"
         },
         {
             "trait_type": "mouth",
-            "value": "Slime Puke"
+            "value": "None"
         }
     ]
 }

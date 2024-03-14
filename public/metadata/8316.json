@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
@@ -14,7 +14,7 @@
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt"
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Green Specs"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",

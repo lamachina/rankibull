@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt 3 "
+            "value": "Scientist 2 "
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "Plasma Laser"
         },
         {
             "trait_type": "head",
-            "value": "Lightbulb"
+            "value": "Slime Containers"
         },
         {
             "trait_type": "mouth",

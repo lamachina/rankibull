@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Slime Containers"
+            "value": "Devil Horns"
         },
         {
             "trait_type": "mouth",

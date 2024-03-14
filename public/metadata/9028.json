@@ -14,7 +14,7 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Atom Slime"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Pink Vape"
         }
     ]
 }

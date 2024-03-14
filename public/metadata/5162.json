@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Dark Horns"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Rainbow Puff"
         }
     ]
 }

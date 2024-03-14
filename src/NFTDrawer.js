@@ -77,8 +77,8 @@ const NFTDrawer = ({ isOpen, onClose, metadata, imageUrl }) => {
 
                                 {itemInfo && (
                                     <Center direction={'row'} gap={'1rem'}>
-                                        <Heading>#{10000 - itemInfo.global}</Heading>
-                                        {/*  <Text>(#{ itemInfo.catrank} in category)</Text> */}
+                                        <Heading>#{itemInfo.global}</Heading>
+                                        <Text>({Math.round(500 + (itemInfo.points * 100) / 100)} pts)</Text>
                                     </Center>
 
                                 )}

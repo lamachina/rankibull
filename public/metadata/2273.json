@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Green "
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Plasma Laser"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Metal Spikes"
         },
         {
             "trait_type": "mouth",

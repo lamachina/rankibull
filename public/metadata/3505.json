@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms"
+            "value": "Messy Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
-            "value": "Dark Horns"
+            "value": "Lightbulb"
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Teeth"
+            "value": "None"
         }
     ]
 }

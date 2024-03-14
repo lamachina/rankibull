@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "Fragmented"
         },
         {
             "trait_type": "ears",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Atomicals Logo"
         },
         {
             "trait_type": "mouth",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "Potion Robes"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Green Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",

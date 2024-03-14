@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Slimed"
         },
         {
             "trait_type": "ears",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

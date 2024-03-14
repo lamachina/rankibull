@@ -6,19 +6,19 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Red "
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
-            "value": "Orb"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "Eyeball Jar"
+            "value": "Lightbulb"
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "Rainbow Puff"
         }
     ]
 }

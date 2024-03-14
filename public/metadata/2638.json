@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Mutant Brain"
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Teeth"
+            "value": "None"
         }
     ]
 }

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Day"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Atomicals Shirt"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Plasma Laser"
+            "value": "Green Specs"
         },
         {
             "trait_type": "head",
-            "value": "Metal Spikes"
+            "value": "Cyber Alert"
         },
         {
             "trait_type": "mouth",

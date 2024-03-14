@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Realms Shirt"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Green Glow"
+            "value": "Cyborg"
         },
         {
             "trait_type": "head",
-            "value": "Atomicals Logo"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

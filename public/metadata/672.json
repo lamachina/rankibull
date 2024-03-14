@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "Charged Slime"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Cracked Glasses"
         },
         {
             "trait_type": "head",

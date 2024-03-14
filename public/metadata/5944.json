@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Fragmented"
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "Atom Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "SharkTentacle"
+            "value": "Tentacle"
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

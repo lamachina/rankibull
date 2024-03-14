@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Pink Slime"
         },
         {
             "trait_type": "clothing",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cosmic"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
-            "value": "Generator"
+            "value": "Atomicals Logo"
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "None"
         }
     ]
 }

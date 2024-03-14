@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Pink Vape"
         }
     ]
 }

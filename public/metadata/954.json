@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Boom"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
@@ -18,19 +18,19 @@
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Tentacle"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Pink Vape"
         }
     ]
 }

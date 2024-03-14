@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "skin",
-            "value": "Orange"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Fragmented"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Hyper Scope"
+            "value": "None"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "None"
         }
     ]
 }

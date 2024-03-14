@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Fragmented"
         },
         {
             "trait_type": "ears",
-            "value": "Realms Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

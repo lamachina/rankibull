@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed"
+            "value": "Atomicals Shirt Red "
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Tiny White Specs"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "Eyeball Jar"
+            "value": "Cyber Mohawk"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Goose Mouth"
         }
     ]
 }

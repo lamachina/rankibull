@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Black"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Double Electric"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Atom Earring"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "DNA Puke"
+            "value": "Pink Vape"
         }
     ]
 }

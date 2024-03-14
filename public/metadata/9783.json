@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Day"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Black Robot"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
@@ -18,15 +18,15 @@
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
-        },
-        {
-            "trait_type": "eyes",
             "value": "None"
         },
         {
+            "trait_type": "eyes",
+            "value": "Green Glow"
+        },
+        {
             "trait_type": "head",
-            "value": "Devil Horns"
+            "value": "Atomicals Logo"
         },
         {
             "trait_type": "mouth",

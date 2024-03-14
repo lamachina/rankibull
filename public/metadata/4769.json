@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "Dark Robes"
+            "value": "Double Electric"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "Mutant Brain"
+            "value": "Rainbow Prism"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

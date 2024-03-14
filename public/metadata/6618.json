@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Pink Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Double Electric"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Gold Holo"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

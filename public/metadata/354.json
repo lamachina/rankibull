@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
-        },
-        {
-            "trait_type": "ears",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "Realms Earring"
+        },
+        {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
-            "value": "Atom Slime"
+            "value": "Cyber Brain"
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "None"
         }
     ]
 }

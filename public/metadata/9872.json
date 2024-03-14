@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Orange"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Slimed"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Green Glow"
         },
         {
             "trait_type": "head",
-            "value": "Realms Book"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

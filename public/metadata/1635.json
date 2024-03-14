@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Pink"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Hyper Scope"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Lightning"
+            "value": "Eyeball Jar"
         },
         {
             "trait_type": "mouth",
-            "value": "DNA Puke"
+            "value": "None"
         }
     ]
 }

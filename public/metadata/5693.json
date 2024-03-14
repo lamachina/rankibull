@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "Dark Realms Book"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Teeth"
+            "value": "None"
         }
     ]
 }

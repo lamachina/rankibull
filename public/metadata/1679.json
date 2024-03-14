@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Golden"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "Crazy Eyes"
         },
         {
             "trait_type": "head",
-            "value": "Virus"
+            "value": "Mutant Brain"
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "None"
         }
     ]
 }

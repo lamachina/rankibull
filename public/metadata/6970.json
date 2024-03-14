@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "Pure Light"
+            "value": "Light Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Mutant Brain"
         },
         {
             "trait_type": "mouth",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "Atom Sweater"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Green Glow"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "Lightning"
+            "value": "Eyeball Jar"
         },
         {
             "trait_type": "mouth",

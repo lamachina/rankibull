@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Black Robot"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Poison Robes"
+            "value": "Potion Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Golden Atomicals"
         },
         {
             "trait_type": "mouth",

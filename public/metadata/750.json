@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Green "
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "Green Glow"
         },
         {
             "trait_type": "head",
-            "value": "Giant Atom"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

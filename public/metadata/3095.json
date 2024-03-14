@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Golden"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Fragmented"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Tiny White Specs"
         },
         {
             "trait_type": "head",
-            "value": "Generator"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

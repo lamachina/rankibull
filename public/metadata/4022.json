@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Atomicals Shirt Black "
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Tiny White Specs"
         },
         {
             "trait_type": "head",
-            "value": "Slime Containers"
+            "value": "Tentacle"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
@@ -18,11 +18,11 @@
         },
         {
             "trait_type": "ears",
-            "value": "Atom Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Flame Shot"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Slime Puke"
+            "value": "None"
         }
     ]
 }

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Moo"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Potion Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "SharkTentacle"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
+            "value": "Slimed"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",

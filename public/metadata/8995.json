@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt"
+            "value": "Fragmented"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Tiny White Specs"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Dark Horns"
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

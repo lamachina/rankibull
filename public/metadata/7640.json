@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
-            "value": "Atomicals Logo"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

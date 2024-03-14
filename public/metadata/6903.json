@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Moo"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "XCSS Shirt"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Crazy Eyes"
         },
         {
             "trait_type": "head",
-            "value": "Atomicals Logo"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Slime Puke"
         }
     ]
 }

@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Moo"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Red "
+            "value": "Realms Shirt"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Orb"
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Brain"
+            "value": "Virus"
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "Pink Vape"
         }
     ]
 }

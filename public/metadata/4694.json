@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Black Robot"
+            "value": "Skeleton"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Green "
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "None"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Teeth"
+            "value": "None"
         }
     ]
 }

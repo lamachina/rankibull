@@ -6,19 +6,19 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Light Robes"
+            "value": "Potion Robes"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Orb"
         },
         {
             "trait_type": "eyes",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Blue Potion"
+            "value": "Dark Horns"
         },
         {
             "trait_type": "mouth",

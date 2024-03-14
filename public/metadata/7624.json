@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed"
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

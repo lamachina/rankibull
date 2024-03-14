@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Slimey"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Pink Vape"
         }
     ]
 }

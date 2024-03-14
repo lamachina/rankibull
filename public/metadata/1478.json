@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Orange"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Cyborg"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

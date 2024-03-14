@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Dark Realms Book"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

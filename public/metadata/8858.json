@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
-        },
-        {
-            "trait_type": "head",
             "value": "None"
         },
         {
+            "trait_type": "head",
+            "value": "Crystals"
+        },
+        {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

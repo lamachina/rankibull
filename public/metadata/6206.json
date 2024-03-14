@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
@@ -14,15 +14,15 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt"
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "Orb"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "Smirk"
         }
     ]
 }

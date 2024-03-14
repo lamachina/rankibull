@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Boom"
+            "value": "Black Robot"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms 2 "
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "Slime Containers"
+            "value": "Lightbulb"
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

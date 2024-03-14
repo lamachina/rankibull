@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Orange"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed"
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Tiny White Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Dark Realms Book"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

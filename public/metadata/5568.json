@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms 2 "
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Virus"
+            "value": "Blue Potion"
         },
         {
             "trait_type": "mouth",

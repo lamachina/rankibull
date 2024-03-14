@@ -6,27 +6,27 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Black"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Slimey"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Plasma Laser"
         },
         {
             "trait_type": "head",
-            "value": "Dark Realms Book"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

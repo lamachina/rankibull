@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "Light Robes"
+            "value": "Messy Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Plasma Laser"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "Giant Atom"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",

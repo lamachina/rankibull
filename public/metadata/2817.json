@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Rainbow"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Realms Earring"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

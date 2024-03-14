@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
@@ -18,11 +18,11 @@
         },
         {
             "trait_type": "ears",
-            "value": "Orb"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

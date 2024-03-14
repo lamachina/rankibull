@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Boom"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt"
+            "value": "Atomicals Shirt Green "
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

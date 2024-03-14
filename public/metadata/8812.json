@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

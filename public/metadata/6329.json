@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "Light Robes"
         },
         {
             "trait_type": "ears",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "None"
         }
     ]
 }

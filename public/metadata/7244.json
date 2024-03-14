@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed 2 "
+            "value": "XCSS Shirt 2 "
         },
         {
             "trait_type": "ears",
-            "value": "Atom Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Cyborg"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "AVM Book"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Slime Puke"
         }
     ]
 }

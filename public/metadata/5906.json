@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
@@ -14,11 +14,11 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed"
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "SharkTentacle"
+            "value": "Tentacle"
         },
         {
             "trait_type": "mouth",

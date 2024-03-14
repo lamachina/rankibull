@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
@@ -14,7 +14,7 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "Realms Logo Blue "
+            "value": "Virus"
         },
         {
             "trait_type": "mouth",

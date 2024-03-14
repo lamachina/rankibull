@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
@@ -18,11 +18,11 @@
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "Realms Earring"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

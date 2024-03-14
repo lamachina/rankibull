@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed"
+            "value": "Light Robes"
         },
         {
             "trait_type": "ears",
-            "value": "Atom Earring"
+            "value": "Realms Earring"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Slime Puke"
         }
     ]
 }

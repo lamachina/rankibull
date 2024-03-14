@@ -6,27 +6,27 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt"
-        },
-        {
-            "trait_type": "ears",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
-            "value": "Slime Containers"
+            "value": "Cyber Brain"
         },
         {
             "trait_type": "mouth",

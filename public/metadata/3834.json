@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Moo"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Charged Slime"
+            "value": "Potion Robes"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "None"
         },
         {
             "trait_type": "head",

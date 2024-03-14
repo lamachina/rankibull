@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Black Robot"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Atomicals Shirt Black "
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",

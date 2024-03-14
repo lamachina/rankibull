@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
-        },
-        {
-            "trait_type": "ears",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Crazy Eyes"
+            "value": "Green Specs"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Pink Vape"
         }
     ]
 }

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Golden"
         },
         {
             "trait_type": "clothing",
-            "value": "Potion Robes"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Crazy Eyes"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

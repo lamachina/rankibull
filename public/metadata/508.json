@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Black"
+            "value": "Orange"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "Double Electric"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",

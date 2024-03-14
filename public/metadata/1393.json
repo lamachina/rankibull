@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms 2 "
+            "value": "Slimed"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "Lightning"
+            "value": "Tentacle"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

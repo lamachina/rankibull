@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
@@ -14,11 +14,11 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Dark Robes"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Slimey"
         },
         {
             "trait_type": "eyes",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Potion Purple"
         },
         {
             "trait_type": "mouth",

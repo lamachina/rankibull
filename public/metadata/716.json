@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "XCSS Shirt 2 "
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Atom Earring"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

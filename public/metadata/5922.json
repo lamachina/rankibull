@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Red "
+            "value": "Atomicals Shirt"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Cyborg"
         },
         {
             "trait_type": "head",
-            "value": "Crystals"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Tiny White Specs"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",
-            "value": "Lightning"
+            "value": "Metal Spikes"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

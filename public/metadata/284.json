@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Day"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Pink Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Poison Robes"
         },
         {
             "trait_type": "ears",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "Generator"
+            "value": "Slime BB"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

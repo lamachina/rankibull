@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Boom"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Potion Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Gold Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Atomicals Logo"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

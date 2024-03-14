@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Golden"
         },
         {
             "trait_type": "clothing",
-            "value": "Poison Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",

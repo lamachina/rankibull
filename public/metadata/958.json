@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Moo"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Red "
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",

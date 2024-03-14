@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Skeleton"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Dark Robes"
-        },
-        {
-            "trait_type": "ears",
-            "value": "Slimey"
-        },
-        {
-            "trait_type": "eyes",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Crazy Eyes"
+        },
+        {
             "trait_type": "head",
-            "value": "Atom Slime"
+            "value": "Metal Spikes"
         },
         {
             "trait_type": "mouth",
-            "value": "Slime Puke"
+            "value": "None"
         }
     ]
 }

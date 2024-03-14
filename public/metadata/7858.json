@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt 2 "
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Tiny White Specs"
+            "value": "Blue Cyber Specs"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "Diamond Grill"
         }
     ]
 }

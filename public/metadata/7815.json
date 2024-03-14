@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Pink Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Messy Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Laser Shot"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Atomblast"
         },
         {
             "trait_type": "mouth",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Plasma Laser"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Alert"
+            "value": "Electro Horns"
         },
         {
             "trait_type": "mouth",

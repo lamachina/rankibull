@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed"
+            "value": "Charged Slime"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

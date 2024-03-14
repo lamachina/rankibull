@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "Light Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

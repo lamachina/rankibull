@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Black Robot"
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt 2 "
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Cyborg"
         },
         {
             "trait_type": "head",
-            "value": "Giant Atom"
+            "value": "Realms Logo"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

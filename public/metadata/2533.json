@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cyborg"
+            "value": "None"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

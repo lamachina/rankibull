@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Laser Shot"
+            "value": "Green Specs"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Golden Atomicals"
         },
         {
             "trait_type": "mouth",
-            "value": "Slime Puke"
+            "value": "None"
         }
     ]
 }

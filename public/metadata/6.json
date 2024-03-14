@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Orange"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cosmic"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
-            "value": "Slime Containers"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

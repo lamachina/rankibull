@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Moo"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt"
+            "value": "Double Electric"
         },
         {
             "trait_type": "ears",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Slime Puke"
+            "value": "None"
         }
     ]
 }

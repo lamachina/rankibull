@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "XCSS Shirt 3 "
         },
         {
             "trait_type": "ears",
-            "value": "Atom Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Blue Cyber Specs"
         },
         {
             "trait_type": "head",
-            "value": "Electro Horns"
+            "value": "AVM Book"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Slime Puke"
         }
     ]
 }

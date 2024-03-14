@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Black "
+            "value": "Realms Shirt"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Cracked Glasses"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Rainbow Puff"
         }
     ]
 }

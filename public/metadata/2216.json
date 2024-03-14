@@ -10,19 +10,19 @@
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Realms Shirt 2 "
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Slimey"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Laser Shot"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt 3 "
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Cosmic"
         },
         {
             "trait_type": "head",
-            "value": "AVM Book"
+            "value": "Atom Slime"
         },
         {
             "trait_type": "mouth",

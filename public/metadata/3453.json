@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Day"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Blue Slime"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Charged Slime"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "Electro Horns"
+            "value": "AVM Book"
         },
         {
             "trait_type": "mouth",
-            "value": "Slime Puke"
+            "value": "None"
         }
     ]
 }

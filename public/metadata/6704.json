@@ -14,11 +14,11 @@
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Poison Robes"
         },
         {
             "trait_type": "ears",
-            "value": "Orb"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Blue Potion"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Rainbow Teeth"
         }
     ]
 }

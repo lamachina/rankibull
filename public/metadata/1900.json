@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "Realms Book"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "Goose Mouth"
         }
     ]
 }

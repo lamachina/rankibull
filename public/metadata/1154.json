@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Potion Robes"
+            "value": "Atomicals Shirt Black "
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",

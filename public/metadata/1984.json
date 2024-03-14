@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Light Robes"
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Orb"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

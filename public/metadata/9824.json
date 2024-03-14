@@ -6,27 +6,27 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Golden"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt"
-        },
-        {
-            "trait_type": "ears",
-            "value": "Orb"
-        },
-        {
-            "trait_type": "eyes",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blue Glow"
+        },
+        {
             "trait_type": "head",
-            "value": "Atomblast"
+            "value": "Realms Logo"
         },
         {
             "trait_type": "mouth",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "Poison Robes"
         },
         {
             "trait_type": "ears",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

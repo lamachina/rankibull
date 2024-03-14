@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Green Glow"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Goose Mouth"
+            "value": "None"
         }
     ]
 }

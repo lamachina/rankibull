@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Golden"
         },
         {
             "trait_type": "clothing",
-            "value": "Charged Slime"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "Dark Realms Book"
+            "value": "SharkTentacle"
         },
         {
             "trait_type": "mouth",

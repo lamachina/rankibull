@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "Pure Light"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
-            "value": "Slime BB"
+            "value": "Slime Containers"
         },
         {
             "trait_type": "mouth",

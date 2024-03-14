@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Light Robes"
+            "value": "Charged Slime"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "Cosmic"
         },
         {
             "trait_type": "head",
-            "value": "Atomblast"
+            "value": "Lightning"
         },
         {
             "trait_type": "mouth",

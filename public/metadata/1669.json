@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Orange"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Fragmented"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",

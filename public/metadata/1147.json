@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Gold Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",

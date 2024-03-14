@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Pink"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cosmic"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "Lightbulb"
+            "value": "Blue Potion"
         },
         {
             "trait_type": "mouth",

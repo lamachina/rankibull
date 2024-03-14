@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Rainbow"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cyborg"
+            "value": "None"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Rainbow Puff"
         }
     ]
 }

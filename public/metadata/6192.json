@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Potion Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",

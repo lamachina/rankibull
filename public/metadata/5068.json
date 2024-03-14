@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Orange"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Fragmented"
         },
         {
             "trait_type": "ears",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Electro Horns"
+            "value": "Giant Atom"
         },
         {
             "trait_type": "mouth",

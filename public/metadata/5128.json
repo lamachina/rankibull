@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cyborg"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
-            "value": "Slime Containers"
+            "value": "Devil Horns"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Goose Mouth"
         }
     ]
 }

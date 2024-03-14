@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "Atomicals Shirt Black "
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",

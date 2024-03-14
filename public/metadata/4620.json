@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Black"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Cyborg"
         },
         {
             "trait_type": "head",
-            "value": "SharkTentacle"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Pink"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist 2 "
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",

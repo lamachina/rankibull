@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed"
+            "value": "Charged Slime"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "Gold Holo"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Blue Potion"
         },
         {
             "trait_type": "mouth",

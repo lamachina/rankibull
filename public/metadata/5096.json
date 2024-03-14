@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
@@ -18,15 +18,15 @@
         },
         {
             "trait_type": "ears",
-            "value": "Orb"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Cyborg"
         },
         {
             "trait_type": "head",
-            "value": "Potion Purple"
+            "value": "Slime Containers"
         },
         {
             "trait_type": "mouth",

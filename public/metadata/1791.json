@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Atomicals Shirt"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Gold Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",

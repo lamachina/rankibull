@@ -10,15 +10,15 @@
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt 2 "
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

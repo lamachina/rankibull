@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed"
+            "value": "Double Electric"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Plasma Laser"
+            "value": "Blue Cyber Specs"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Giant Atom"
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

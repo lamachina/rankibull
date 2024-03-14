@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Blue Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",

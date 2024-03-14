@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt"
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "Potion Purple"
+            "value": "Realms Book"
         },
         {
             "trait_type": "mouth",
-            "value": "Goose Mouth"
+            "value": "None"
         }
     ]
 }

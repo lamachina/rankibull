@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
@@ -14,23 +14,23 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt 2 "
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "Realms Earring"
+            "value": "Slimey"
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",
-            "value": "Dark Horns"
+            "value": "Cyber Mohawk"
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

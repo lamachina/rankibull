@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cosmic"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "Lightning"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

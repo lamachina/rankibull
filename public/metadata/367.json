@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
+            "value": "Realms Shirt"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cosmic"
+            "value": "None"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Rainbow Puff"
         }
     ]
 }

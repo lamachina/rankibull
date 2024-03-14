@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Wrapped Robot"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Lightning"
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

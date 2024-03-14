@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Charged Slime"
+            "value": "Slimed"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

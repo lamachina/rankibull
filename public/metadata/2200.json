@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Golden"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Gold Holo"
+            "value": "Cracked Glasses"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Tentacle"
         },
         {
             "trait_type": "mouth",

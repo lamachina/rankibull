@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Rainbow"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "Light Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "Slime Containers"
+            "value": "SharkTentacle"
         },
         {
             "trait_type": "mouth",

@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Cracked Glasses"
         },
         {
             "trait_type": "head",

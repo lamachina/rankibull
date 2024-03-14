@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Blue Slime"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt 2 "
+            "value": "Poison Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Green Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Lightbulb"
+            "value": "Dark Realms Book"
         },
         {
             "trait_type": "mouth",

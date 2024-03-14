@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Light Robes"
+            "value": "Atomicals Shirt Red "
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "Green Glow"
         },
         {
             "trait_type": "head",
-            "value": "Atom Slime"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

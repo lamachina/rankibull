@@ -6,19 +6,19 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Moo"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms 2 "
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
-            "value": "Orb"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Lightbulb"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

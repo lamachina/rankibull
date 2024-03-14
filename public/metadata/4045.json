@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Black Robot"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Black "
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Green Glow"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Cyber Mohawk"
         },
         {
             "trait_type": "mouth",

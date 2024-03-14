@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Black Robot"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Researcher"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
-            "value": "Orb"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
-            "value": "Giant Atom"
+            "value": "Dark Horns"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

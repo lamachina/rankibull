@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist 2 "
-        },
-        {
-            "trait_type": "ears",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
             "trait_type": "eyes",
-            "value": "Flame Shot"
+            "value": "None"
         },
         {
             "trait_type": "head",

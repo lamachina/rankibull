@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Boom"
+            "value": "Pink Slime"
         },
         {
             "trait_type": "clothing",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Cyborg"
         },
         {
             "trait_type": "head",
-            "value": "Potion Purple"
+            "value": "Atomblast"
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "None"
         }
     ]
 }

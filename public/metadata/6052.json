@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Skeleton"
+            "value": "Orange"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "Double Electric"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Green Glow"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

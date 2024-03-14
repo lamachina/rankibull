@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Golden"
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Blue Cyber Specs"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Virus"
         },
         {
             "trait_type": "mouth",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed 2 "
+            "value": "Messy Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Golden Atomicals"
         },
         {
             "trait_type": "mouth",

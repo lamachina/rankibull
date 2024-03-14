@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Moo"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Charged Slime"
+            "value": "Slimed"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Crazy Eyes"
         },
         {
             "trait_type": "head",

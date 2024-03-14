@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Moo"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Light Robes"
+            "value": "Slimed 2 "
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
-        },
-        {
-            "trait_type": "eyes",
-            "value": "Cracked Glasses"
-        },
-        {
-            "trait_type": "head",
             "value": "None"
         },
         {
+            "trait_type": "eyes",
+            "value": "Pink Holo"
+        },
+        {
+            "trait_type": "head",
+            "value": "Metal Spikes"
+        },
+        {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

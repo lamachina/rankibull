@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "Fragmented"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
-            "value": "Electro Horns"
+            "value": "Lightbulb"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Slime Puke"
         }
     ]
 }

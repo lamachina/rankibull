@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Fragmented"
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Hyper Scope"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Giant Atom"
+            "value": "Realms Logo"
         },
         {
             "trait_type": "mouth",

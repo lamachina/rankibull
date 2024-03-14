@@ -6,19 +6,19 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
+            "value": "XCSS Shirt 3 "
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

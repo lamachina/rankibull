@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
@@ -14,19 +14,19 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Poison Robes"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Hyper Scope"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
-            "value": "Lightning"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

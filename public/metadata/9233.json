@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Day"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Orange"
+            "value": "Pink Slime"
         },
         {
             "trait_type": "clothing",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Cracked Glasses"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",

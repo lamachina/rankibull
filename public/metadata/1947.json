@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Orb"
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "Blue Cyber Specs"
         },
         {
             "trait_type": "head",

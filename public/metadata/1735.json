@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed"
-        },
-        {
-            "trait_type": "ears",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
             "trait_type": "eyes",
-            "value": "Green Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",

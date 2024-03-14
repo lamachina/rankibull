@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "Charged Slime"
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",

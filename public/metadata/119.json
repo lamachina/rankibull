@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Black Robot"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt 3 "
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",

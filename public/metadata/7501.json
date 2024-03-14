@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Black Robot"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed 2 "
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Tiny White Specs"
         },
         {
             "trait_type": "head",

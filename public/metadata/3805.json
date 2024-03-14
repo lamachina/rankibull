@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Rainbow Teeth"
         }
     ]
 }

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Black Robot"
         },
         {
             "trait_type": "clothing",
-            "value": "Pure Light"
+            "value": "Science Shrooms 2 "
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",

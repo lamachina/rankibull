@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Cyborg"
         },
         {
             "trait_type": "head",
-            "value": "Tentacle"
+            "value": "Giant Atom"
         },
         {
             "trait_type": "mouth",

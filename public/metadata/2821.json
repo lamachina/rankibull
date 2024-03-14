@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
@@ -14,15 +14,15 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms 2 "
+            "value": "Slimed"
         },
         {
             "trait_type": "ears",
-            "value": "Realms Earring"
+            "value": "Atom Earring"
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Slime Puke"
         }
     ]
 }

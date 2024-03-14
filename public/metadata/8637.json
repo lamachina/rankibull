@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Pink"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "Potion Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Green Glow"
+            "value": "Green Specs"
         },
         {
             "trait_type": "head",

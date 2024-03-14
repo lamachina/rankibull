@@ -14,23 +14,23 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Charged Slime"
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Crazy Eyes"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Giant Atom"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

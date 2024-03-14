@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",

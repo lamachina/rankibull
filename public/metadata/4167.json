@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Moutain"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "XCSS Shirt 3 "
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "SharkTentacle"
+            "value": "AVM Book"
         },
         {
             "trait_type": "mouth",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "Light Robes"
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Green Glow"
         },
         {
             "trait_type": "head",
-            "value": "Lightning"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

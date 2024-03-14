@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cosmic"
+            "value": "None"
         },
         {
             "trait_type": "head",

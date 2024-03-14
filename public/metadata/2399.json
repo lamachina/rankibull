@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Blue Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "Slimed"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Cyborg"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Potion Purple"
         },
         {
             "trait_type": "mouth",
-            "value": "DNA Puke"
+            "value": "None"
         }
     ]
 }

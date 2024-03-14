@@ -6,27 +6,27 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Skeleton"
+            "value": "Orange"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Researcher"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
-        },
-        {
-            "trait_type": "eyes",
             "value": "None"
         },
         {
+            "trait_type": "eyes",
+            "value": "Cracked Glasses"
+        },
+        {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Atom Slime"
         },
         {
             "trait_type": "mouth",

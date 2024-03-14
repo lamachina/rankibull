@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "skin",
-            "value": "Black"
+            "value": "Pink Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "XCSS Shirt"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "Atomblast"
+            "value": "Giant Atom"
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

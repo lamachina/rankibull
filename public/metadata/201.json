@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Orange"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "Atom Sweater"
         },
         {
             "trait_type": "ears",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

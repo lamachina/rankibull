@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms"
+            "value": "Fragmented"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",

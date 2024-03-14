@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt"
+            "value": "Poison Robes"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Slimey"
         },
         {
             "trait_type": "eyes",
-            "value": "Green Specs"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
-            "value": "Golden Atomicals"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Teeth"
+            "value": "None"
         }
     ]
 }

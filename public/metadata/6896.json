@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "Fragmented"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Tiny White Specs"
+            "value": "Plasma Laser"
         },
         {
             "trait_type": "head",
-            "value": "Atomblast"
+            "value": "Eyeball Jar"
         },
         {
             "trait_type": "mouth",

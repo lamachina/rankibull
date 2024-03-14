@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms 2 "
+            "value": "Charged Slime"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Virus"
+            "value": "Blue Potion"
         },
         {
             "trait_type": "mouth",
-            "value": "DNA Puke"
+            "value": "None"
         }
     ]
 }

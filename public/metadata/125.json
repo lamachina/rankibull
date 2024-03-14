@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "Atom Sweater"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Cosmic"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Generator"
+            "value": "Cyber Mohawk"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

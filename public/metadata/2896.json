@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Pink"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Green "
+            "value": "Poison Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Lightning"
+            "value": "Mutant Brain"
         },
         {
             "trait_type": "mouth",

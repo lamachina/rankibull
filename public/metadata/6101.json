@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
+            "value": "Potion Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Potion Purple"
+            "value": "Dark Realms Book"
         },
         {
             "trait_type": "mouth",

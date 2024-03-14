@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Atom Sweater"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Giant Atom"
         },
         {
             "trait_type": "mouth",

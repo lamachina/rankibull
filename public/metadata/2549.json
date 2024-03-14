@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Orange"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Green Glow"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "Slime Containers"
+            "value": "Devil Horns"
         },
         {
             "trait_type": "mouth",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Green "
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "Dark Realms Book"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Dark Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",
-            "value": "Tentacle"
+            "value": "Realms Logo"
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "None"
         }
     ]
 }

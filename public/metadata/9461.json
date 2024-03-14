@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt"
+            "value": "Atom Sweater"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",
-            "value": "Lightbulb"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",

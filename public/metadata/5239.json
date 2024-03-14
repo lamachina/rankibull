@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Orange"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Red "
+            "value": "Double Electric"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Crazy Eyes"
         },
         {
             "trait_type": "head",
-            "value": "Atomicals Logo"
+            "value": "Lightning"
         },
         {
             "trait_type": "mouth",

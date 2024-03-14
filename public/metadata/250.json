@@ -6,19 +6,19 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Golden"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Pure Light"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
-            "value": "Realms Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Dark Realms Book"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Rainbow Teeth"
         }
     ]
 }

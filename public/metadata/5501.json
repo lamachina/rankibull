@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Orange"
         },
         {
             "trait_type": "clothing",
-            "value": "Poison Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Tiny White Specs"
         },
         {
             "trait_type": "head",
-            "value": "Generator"
+            "value": "Giant Atom"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

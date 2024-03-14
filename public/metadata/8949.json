@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Orange"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Realms Shirt 2 "
         },
         {
             "trait_type": "ears",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Slime Puke"
         }
     ]
 }

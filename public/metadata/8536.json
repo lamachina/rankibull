@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Potion Robes"
+            "value": "Atomicals Shirt Green "
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Hyper Scope"
+            "value": "None"
         },
         {
             "trait_type": "head",

@@ -6,27 +6,27 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms"
+            "value": "Atom Sweater"
         },
         {
             "trait_type": "ears",
-            "value": "Realms Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Atom Slime"
+            "value": "Cyber Mohawk"
         },
         {
             "trait_type": "mouth",

@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Laser Shot"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "SharkTentacle"
+            "value": "Tentacle"
         },
         {
             "trait_type": "mouth",
-            "value": "Slime Puke"
+            "value": "None"
         }
     ]
 }

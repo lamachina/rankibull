@@ -6,27 +6,27 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Black "
+            "value": "Slimed"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
-        },
-        {
-            "trait_type": "eyes",
             "value": "None"
         },
         {
+            "trait_type": "eyes",
+            "value": "Cracked Glasses"
+        },
+        {
             "trait_type": "head",
-            "value": "Realms Logo Blue "
+            "value": "Blue Potion"
         },
         {
             "trait_type": "mouth",

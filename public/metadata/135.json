@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "Green Glow"
         },
         {
             "trait_type": "head",
-            "value": "Metal Spikes"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

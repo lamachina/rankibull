@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "skin",
-            "value": "Orange"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Dark Realms Book"
         },
         {
             "trait_type": "mouth",

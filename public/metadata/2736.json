@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Moo"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt"
+            "value": "Slimed"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
-            "value": "SharkTentacle"
+            "value": "Tentacle"
         },
         {
             "trait_type": "mouth",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Boom"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt 2 "
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "Mutant Brain"
+            "value": "Rainbow Prism"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Rainbow Teeth"
         }
     ]
 }

@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Pink Slime"
         },
         {
             "trait_type": "clothing",
@@ -18,11 +18,11 @@
         },
         {
             "trait_type": "ears",
-            "value": "Orb"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",

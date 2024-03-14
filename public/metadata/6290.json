@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "XCSS Shirt 3 "
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Cyborg"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Virus"
         },
         {
             "trait_type": "mouth",

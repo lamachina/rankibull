@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "Poison Robes"
+            "value": "Light Robes"
         },
         {
             "trait_type": "ears",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "None"
         }
     ]
 }

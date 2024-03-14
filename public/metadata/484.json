@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Black Robot"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "Fragmented"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",

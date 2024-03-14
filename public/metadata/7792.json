@@ -6,19 +6,19 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Golden"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Researcher"
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Realms Earring"
         },
         {
             "trait_type": "eyes",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Lightbulb"
+            "value": "Cyber Brain"
         },
         {
             "trait_type": "mouth",

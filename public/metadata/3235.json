@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Moutain"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Black Robot"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Atomicals Shirt Green "
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

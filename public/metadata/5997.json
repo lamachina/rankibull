@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Orange"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
+            "value": "Atomicals Shirt Red "
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Orb"
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Tiny White Specs"
         },
         {
             "trait_type": "head",
-            "value": "Green Potion"
+            "value": "Eyeball Jar"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Slime Puke"
         }
     ]
 }

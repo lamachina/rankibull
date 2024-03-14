@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "Atom Sweater"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Laser Shot"
+            "value": "Cosmic"
         },
         {
             "trait_type": "head",

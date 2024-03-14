@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
@@ -14,23 +14,23 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Light Robes"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Cyborg"
         },
         {
             "trait_type": "head",
-            "value": "Lightbulb"
+            "value": "Cyber Mohawk"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Rainbow Teeth"
         }
     ]
 }

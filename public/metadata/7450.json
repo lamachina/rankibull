@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
@@ -14,19 +14,19 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Fragmented"
+            "value": "Charged Slime"
         },
         {
             "trait_type": "ears",
-            "value": "Realms Earring"
-        },
-        {
-            "trait_type": "eyes",
             "value": "None"
         },
         {
+            "trait_type": "eyes",
+            "value": "Cracked Glasses"
+        },
+        {
             "trait_type": "head",
-            "value": "Devil Horns"
+            "value": "Golden Atomicals"
         },
         {
             "trait_type": "mouth",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Black"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Slime Puke"
+            "value": "None"
         }
     ]
 }

@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
@@ -14,7 +14,7 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Crazy Eyes"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Cyber Mohawk"
         },
         {
             "trait_type": "mouth",

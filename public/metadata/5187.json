@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Dark Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Green Specs"
         },
         {
             "trait_type": "head",

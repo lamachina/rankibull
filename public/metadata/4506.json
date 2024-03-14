@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt 2 "
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Plasma Laser"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Lightbulb"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

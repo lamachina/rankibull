@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Green Glow"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",

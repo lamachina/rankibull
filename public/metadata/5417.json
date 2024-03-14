@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
@@ -14,15 +14,15 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Potion Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Laser Shot"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",

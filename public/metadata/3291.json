@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

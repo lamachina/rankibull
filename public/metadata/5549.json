@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Hyper Scope"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Mutant Brain"
+            "value": "Giant Atom"
         },
         {
             "trait_type": "mouth",

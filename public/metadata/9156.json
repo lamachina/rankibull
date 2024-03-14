@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Day"
         },
         {
             "trait_type": "skin",
-            "value": "Pink"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt"
+            "value": "Realms Shirt 2 "
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Slimey"
         },
         {
             "trait_type": "eyes",
-            "value": "Green Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Goose Mouth"
+            "value": "Smirk"
         }
     ]
 }

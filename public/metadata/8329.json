@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Green "
+            "value": "Atomicals Shirt Red "
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Hyper Scope"
+            "value": "Green Specs"
         },
         {
             "trait_type": "head",
-            "value": "Electro Horns"
+            "value": "AVM Book"
         },
         {
             "trait_type": "mouth",

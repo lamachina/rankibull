@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed"
+            "value": "Slimed 2 "
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Science Specs"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",

@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "Dark Robes"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
-            "value": "Atom Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Crazy Eyes"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Lightbulb"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Teeth"
+            "value": "None"
         }
     ]
 }

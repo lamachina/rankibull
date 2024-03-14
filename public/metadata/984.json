@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cosmic"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Eyeball Jar"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",

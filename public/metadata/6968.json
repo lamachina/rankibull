@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Scientist 2 "
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
-            "value": "AVM Book"
+            "value": "Virus"
         },
         {
             "trait_type": "mouth",

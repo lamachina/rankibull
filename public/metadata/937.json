@@ -14,15 +14,15 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
-        },
-        {
-            "trait_type": "ears",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "Realms Earring"
+        },
+        {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "Cracked Glasses"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

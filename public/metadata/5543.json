@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Orange"
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt"
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Blue Cyber Specs"
         },
         {
             "trait_type": "head",

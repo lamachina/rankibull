@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Black "
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Hyper Scope"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",

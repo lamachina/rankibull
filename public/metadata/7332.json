@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cyborg"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Metal Spikes"
+            "value": "SharkTentacle"
         },
         {
             "trait_type": "mouth",

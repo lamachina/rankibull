@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms"
+            "value": "Double Electric"
         },
         {
             "trait_type": "ears",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Virus"
+            "value": "Blue Potion"
         },
         {
             "trait_type": "mouth",

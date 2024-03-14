@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Pink"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Potion Robes"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Crazy Eyes"
+            "value": "Plasma Laser"
         },
         {
             "trait_type": "head",
-            "value": "Tentacle"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

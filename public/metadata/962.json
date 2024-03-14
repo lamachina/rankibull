@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Boom"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms 2 "
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Dark Horns"
+            "value": "AVM Book"
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "Science Smoke"
         }
     ]
 }

@@ -6,19 +6,19 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Purple"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Orange"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt"
+            "value": "Charged Slime"
         },
         {
             "trait_type": "ears",
-            "value": "Orb"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Realms Logo"
         },
         {
             "trait_type": "mouth",
-            "value": "Slime Puke"
+            "value": "None"
         }
     ]
 }

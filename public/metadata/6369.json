@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
@@ -18,19 +18,19 @@
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "Cosmic"
         },
         {
             "trait_type": "head",
-            "value": "Lightning"
+            "value": "Eyeball Jar"
         },
         {
             "trait_type": "mouth",
-            "value": "DNA Puke"
+            "value": "None"
         }
     ]
 }

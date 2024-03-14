@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Golden"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Dark Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Plasma Laser"
         },
         {
             "trait_type": "head",
-            "value": "Virus"
+            "value": "Blue Potion"
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

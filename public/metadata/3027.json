@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
@@ -18,19 +18,19 @@
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
-        },
-        {
-            "trait_type": "eyes",
             "value": "None"
         },
         {
+            "trait_type": "eyes",
+            "value": "Cracked Glasses"
+        },
+        {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "None"
         }
     ]
 }

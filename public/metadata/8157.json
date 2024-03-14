@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
@@ -14,7 +14,7 @@
         },
         {
             "trait_type": "clothing",
-            "value": "XCSS Shirt"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Tiny White Specs"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Mutant Brain"
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "Slime Puke"
         }
     ]
 }

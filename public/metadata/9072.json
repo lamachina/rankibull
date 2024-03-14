@@ -6,19 +6,19 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Moutain"
         },
         {
             "trait_type": "skin",
-            "value": "Wrapped Robot"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
-            "value": "Realms Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "Crystals"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

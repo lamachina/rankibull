@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Black"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "Dark Robes"
+            "value": "Science Shrooms 2 "
         },
         {
             "trait_type": "ears",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Slime Puke"
+            "value": "None"
         }
     ]
 }

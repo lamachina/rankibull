@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Realms Shirt"
+            "value": "Atomicals Shirt"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Plasma Laser"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Dark Realms Book"
         },
         {
             "trait_type": "mouth",

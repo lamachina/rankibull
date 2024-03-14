@@ -6,27 +6,27 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Double Electric"
-        },
-        {
-            "trait_type": "ears",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "Orb"
+        },
+        {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "Electro Horns"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

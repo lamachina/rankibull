@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Cracked Glasses"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Electro Horns"
         },
         {
             "trait_type": "mouth",

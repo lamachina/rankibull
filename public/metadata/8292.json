@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Tiny White Specs"
         },
         {
             "trait_type": "head",
-            "value": "Golden Atomicals"
+            "value": "SharkTentacle"
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

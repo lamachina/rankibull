@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Pearl"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Potion Robes"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",

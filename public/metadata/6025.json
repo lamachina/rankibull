@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Boom"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Atomblast"
         },
         {
             "trait_type": "mouth",

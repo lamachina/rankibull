@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Atomicals Shirt Black "
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Tiny White Specs"
+            "value": "Pink Holo"
         },
         {
             "trait_type": "head",
-            "value": "Virus"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",

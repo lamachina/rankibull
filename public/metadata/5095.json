@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Crazy Eyes"
+            "value": "Cosmic"
         },
         {
             "trait_type": "head",
-            "value": "Realms Book"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

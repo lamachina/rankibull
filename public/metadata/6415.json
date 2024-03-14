@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Robotic"
+            "value": "Black Robot"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",

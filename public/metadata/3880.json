@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Boom"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Red "
+            "value": "Realms Shirt"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Green Glow"
+            "value": "Plasma Laser"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Brain"
+            "value": "Slime BB"
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

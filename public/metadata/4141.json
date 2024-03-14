@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Black Robot"
+            "value": "Skeleton"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed 2 "
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Rainbow Teeth"
         }
     ]
 }

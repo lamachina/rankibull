@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
@@ -14,15 +14,15 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Atomicals Shirt Black "
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Crazy Eyes"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

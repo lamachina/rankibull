@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Golden"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Dark Robes"
+            "value": "Charged Slime"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Green Specs"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Metal Spikes"
         },
         {
             "trait_type": "mouth",

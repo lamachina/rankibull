@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Scientist 2 "
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Cracked Glasses"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Dark Realms Book"
         },
         {
             "trait_type": "mouth",

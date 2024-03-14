@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Orange"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms 2 "
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Crazy Eyes"
+            "value": "Gold Holo"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Atomblast"
         },
         {
             "trait_type": "mouth",

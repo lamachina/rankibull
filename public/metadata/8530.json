@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Black"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "Cracked Glasses"
         },
         {
             "trait_type": "head",

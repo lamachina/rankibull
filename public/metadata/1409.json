@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Mint"
         },
         {
             "trait_type": "skin",
-            "value": "Blue"
+            "value": "Black"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Researcher"
+            "value": "Scientist 2 "
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Cracked Glasses"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Virus"
         },
         {
             "trait_type": "mouth",

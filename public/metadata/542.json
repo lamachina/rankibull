@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Science Smoke"
         }
     ]
 }

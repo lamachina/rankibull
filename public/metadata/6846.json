@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
@@ -14,11 +14,11 @@
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Researcher"
+            "value": "None"
         },
         {
             "trait_type": "ears",
-            "value": "Realms Earring"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Realms Book"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

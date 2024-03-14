@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Pearl"
         },
         {
             "trait_type": "skin",
-            "value": "Red"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Metal Spikes"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Teal"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "Cosmic"
         },
         {
             "trait_type": "head",
-            "value": "Rainbow Prism"
+            "value": "Crystals"
         },
         {
             "trait_type": "mouth",

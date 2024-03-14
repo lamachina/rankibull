@@ -10,11 +10,11 @@
         },
         {
             "trait_type": "skin",
-            "value": "Pink"
+            "value": "Black Robot"
         },
         {
             "trait_type": "clothing",
-            "value": "Light Robes"
+            "value": "Double Electric"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "Lightbulb"
         },
         {
             "trait_type": "mouth",
-            "value": "Smirk"
+            "value": "None"
         }
     ]
 }

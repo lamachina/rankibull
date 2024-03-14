@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Black Robot"
         },
         {
             "trait_type": "clothing",
-            "value": "Light Robes"
+            "value": "Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,15 +22,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Crazy Eyes"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Generator"
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "DNA Puke"
         }
     ]
 }

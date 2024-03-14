@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Rose"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Atomicals Researcher"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Green Glow"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Atom Slime"
+            "value": "Cyber Mohawk"
         },
         {
             "trait_type": "mouth",

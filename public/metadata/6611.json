@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Fragmented"
+            "value": "Realms Shirt"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Atom Earring"
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "None"
         }
     ]
 }

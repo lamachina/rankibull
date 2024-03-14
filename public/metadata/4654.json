@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Mint"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Potion Robes"
-        },
-        {
-            "trait_type": "ears",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
             "trait_type": "eyes",
-            "value": "Pink Holo"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Neon Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Potion Robes"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -26,11 +26,11 @@
         },
         {
             "trait_type": "head",
-            "value": "Giant Atom"
+            "value": "Electro Horns"
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "Rainbow Teeth"
         }
     ]
 }

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "Slimed"
+            "value": "Potion Robes"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Glow"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",

@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Golden"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -26,7 +26,7 @@
         },
         {
             "trait_type": "head",
-            "value": "Virus"
+            "value": "Electro Horns"
         },
         {
             "trait_type": "mouth",

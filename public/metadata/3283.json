@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Tan"
         },
         {
             "trait_type": "skin",
-            "value": "Boom"
+            "value": "Green Slime"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms"
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Slimey"
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Blue Glow"
         },
         {
             "trait_type": "head",
-            "value": "Atom Slime"
+            "value": "Metal Spikes"
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

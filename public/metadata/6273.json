@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Brown"
+            "value": "Orange"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms 2 "
+            "value": "None"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Green Specs"
+            "value": "Green Glow"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Mohawk"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

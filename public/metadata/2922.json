@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Day"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
@@ -14,23 +14,23 @@
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Messy Scientist"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Orb"
         },
         {
             "trait_type": "eyes",
-            "value": "Cyborg"
+            "value": "Crazy Eyes"
         },
         {
             "trait_type": "head",
-            "value": "Lightning"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "Science Smoke"
+            "value": "None"
         }
     ]
 }

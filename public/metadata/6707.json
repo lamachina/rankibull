@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Science Shrooms"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Hyper Scope"
+            "value": "Laser Shot"
         },
         {
             "trait_type": "head",
-            "value": "None"
+            "value": "Metal Spikes"
         },
         {
             "trait_type": "mouth",

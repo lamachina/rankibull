@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Black Robot"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Messy Scientist"
+            "value": "Poison Robes"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Cyber Specs"
+            "value": "None"
         },
         {
             "trait_type": "head",

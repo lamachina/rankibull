@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Teal"
         },
         {
             "trait_type": "skin",
-            "value": "Pink Slime"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Atom Sweater"
+            "value": "Dark Robes"
         },
         {
             "trait_type": "ears",
-            "value": "None"
+            "value": "Realms Earring"
         },
         {
             "trait_type": "eyes",
-            "value": "Dark Specs"
+            "value": "Blue Holo"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "Pink Vape"
+            "value": "None"
         }
     ]
 }

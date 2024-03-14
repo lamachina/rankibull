@@ -6,23 +6,23 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Green"
+            "value": "Red"
         },
         {
             "trait_type": "clothing",
-            "value": "Science Shrooms"
-        },
-        {
-            "trait_type": "ears",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "Slimey"
+        },
+        {
             "trait_type": "eyes",
-            "value": "Tiny White Specs"
+            "value": "Cracked Glasses"
         },
         {
             "trait_type": "head",

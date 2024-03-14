@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Light"
+            "value": "Purple"
         },
         {
             "trait_type": "skin",
-            "value": "Neon Blue"
+            "value": "Robotic"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Double Electric"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Hyper Scope"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
@@ -30,7 +30,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "None"
+            "value": "Smirk"
         }
     ]
 }

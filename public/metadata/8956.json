@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Forest"
+            "value": "Light"
         },
         {
             "trait_type": "skin",
-            "value": "Pink"
+            "value": "Moo"
         },
         {
             "trait_type": "clothing",
-            "value": "None"
+            "value": "Messy Scientist"
         },
         {
             "trait_type": "ears",
@@ -22,7 +22,7 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Tiny White Specs"
         },
         {
             "trait_type": "head",

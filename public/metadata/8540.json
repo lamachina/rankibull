@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Fade"
+            "value": "Night"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Blue"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Green "
-        },
-        {
-            "trait_type": "ears",
             "value": "None"
         },
         {
+            "trait_type": "ears",
+            "value": "Atom Earring"
+        },
+        {
             "trait_type": "eyes",
-            "value": "Crazy Eyes"
+            "value": "Hyper Scope"
         },
         {
             "trait_type": "head",
-            "value": "Tentacle"
+            "value": "None"
         },
         {
             "trait_type": "mouth",
-            "value": "Diamond Grill"
+            "value": "None"
         }
     ]
 }

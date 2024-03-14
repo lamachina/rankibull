@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Orange"
+            "value": "Sunny"
         },
         {
             "trait_type": "skin",
-            "value": "Moo"
+            "value": "Pink"
         },
         {
             "trait_type": "clothing",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Blue Holo"
+            "value": "Dark Specs"
         },
         {
             "trait_type": "head",
-            "value": "Realms Book"
+            "value": "Generator"
         },
         {
             "trait_type": "mouth",

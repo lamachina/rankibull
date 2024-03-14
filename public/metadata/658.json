@@ -6,7 +6,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Tan"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Tiny White Specs"
+            "value": "Science Specs"
         },
         {
             "trait_type": "head",
-            "value": "Atomicals Logo"
+            "value": "Cyber Mohawk"
         },
         {
             "trait_type": "mouth",

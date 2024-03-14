@@ -10,7 +10,7 @@
         },
         {
             "trait_type": "skin",
-            "value": "Skeleton"
+            "value": "Wrapped Robot"
         },
         {
             "trait_type": "clothing",
@@ -18,11 +18,11 @@
         },
         {
             "trait_type": "ears",
-            "value": "Slimey"
+            "value": "None"
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Laser Shot"
         },
         {
             "trait_type": "head",

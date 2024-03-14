@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Cream"
+            "value": "Fade"
         },
         {
             "trait_type": "skin",
-            "value": "Green Slime"
+            "value": "Green"
         },
         {
             "trait_type": "clothing",
-            "value": "Atomicals Shirt Red "
+            "value": "Light Robes"
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "Gold Holo"
+            "value": "None"
         },
         {
             "trait_type": "head",
-            "value": "Potion Purple"
+            "value": "None"
         },
         {
             "trait_type": "mouth",

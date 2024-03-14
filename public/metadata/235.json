@@ -6,15 +6,15 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Night"
+            "value": "Forest"
         },
         {
             "trait_type": "skin",
-            "value": "Moo"
+            "value": "Albino"
         },
         {
             "trait_type": "clothing",
-            "value": "Scientist"
+            "value": "Scientist 2 "
         },
         {
             "trait_type": "ears",
@@ -22,11 +22,11 @@
         },
         {
             "trait_type": "eyes",
-            "value": "None"
+            "value": "Gold Holo"
         },
         {
             "trait_type": "head",
-            "value": "Cyber Alert"
+            "value": "Eyeball Jar"
         },
         {
             "trait_type": "mouth",

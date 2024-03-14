@@ -6,31 +6,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Rose"
+            "value": "Cream"
         },
         {
             "trait_type": "skin",
-            "value": "Albino"
+            "value": "Brown"
         },
         {
             "trait_type": "clothing",
-            "value": "Mutated"
+            "value": "Messy Scientist"
         },
         {
             "trait_type": "ears",
-            "value": "Atom Earring"
-        },
-        {
-            "trait_type": "eyes",
             "value": "None"
         },
         {
+            "trait_type": "eyes",
+            "value": "Blue Cyber Specs"
+        },
+        {
             "trait_type": "head",
-            "value": "Realms Logo Blue "
+            "value": "Lightning"
         },
         {
             "trait_type": "mouth",
-            "value": "Rainbow Puff"
+            "value": "Smirk"
         }
     ]
 }
